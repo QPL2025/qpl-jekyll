@@ -71,9 +71,10 @@ Below is a *preliminary* program. It is subject to change!
   * Paulo Cavalcanti, John Selby and Ana Belen Sainz. **Every no-signalling channel is common-cause realizable.**
   * Gerd Niestegge. **Quantum transition probability and convex sets.**
   * Martin Plávala and Matthias Kleinmann. **Generalized dynamical theories in phase space and the hydrogen atom.**
-* Room *Number*: **Some Name for this???.**
+* Room *Number*: **Quantum (De)compositional Aspects.**
   * Jacques Carette, Chris Heunen, Robin Kaarsgaard and Amr Sabry. **The Quantum Effect: a recipe for QuantumPi.**
   * Pablo Arrighi, Amélia Durbec and Matt Wilson. **Generalized tensors and partial traces over quantum networks.**
+  * Matthew Wilson and Giulio Chiribella. **Polycategories of Supermaps on Monoidal Categories.**
 
 ##### 15:30 -- 16:00 Break
 ##### 16:00 -- 17:00 Posters and Tool Demos
@@ -181,7 +182,6 @@ The conference dinner will take place at "Les Belles Plantes" located at [47 Rue
 ##### 14:00 -- 15:30 Parallel Session
 * Room *Number*: **Name???.**
   * Anindita Bera, Giovanni Scala, Gniewkomir Sarbicki and Dariusz Chruściński. **Generalizing Choi map in $M_3$ beyond circulant scenario.**
-  * Matthew Wilson and Giulio Chiribella. **Polycategories of Supermaps on Monoidal Categories.**
   * Thomas Theurer, Elia Zanoni, Carlo Maria Scandolo and Gilad Gour. **Thermodynamic state convertibility is determined by qubit cooling and heating.**
 * Room *Number*: **Diagrammatic Calculi.**
   * Boldizsár Poór, Robert I. Booth, Titouan Carette, John van de Wetering and Lia Yeh. **The Qupit Stabiliser ZX-travaganza: Simplified Axioms, Normal Forms and Graph-Theoretic Simplification.**
