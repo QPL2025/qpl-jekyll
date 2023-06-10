@@ -28,6 +28,8 @@ linguistics, artificial intelligence, and causality) is also welcome.
 
 All deadlines are stated with respect to the [Anywhere on Earth (AoE) time zone](https://www.timeanddate.com/time/zones/aoe).
 
+Registration is still not open, but we hope that it will be available soon.
+
 ### Submissions
 
 Prospective speakers are invited to submit one (or more) of the following:
