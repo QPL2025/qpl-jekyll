@@ -81,6 +81,17 @@ The conference will take place at [Institut Henri Poincaré](https://www.ihp.fr/
 
 We will update the website with more relevant information at a later time.
 
+### Diamond Sponsor
+
+![Quandela](images/quandela.svg)
+
+### Gold Sponsor
+![Quantinuum](images/quantinuum.svg)
+
+### Silver Sponsors
+![University of Chicago](images/uchicago.svg)
+![Inria](images/inria.svg)
+
 ### Programme Committee Chairs
 
 * [Shane Mansfield](https://scholar.google.fr/citations?user=g6DV3UkAAAAJ&hl=en) (Quandela)
