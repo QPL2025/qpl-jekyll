@@ -93,10 +93,18 @@ The conference will take place at [Institut Henri Poincaré](https://www.ihp.fr/
   <tr>
     <td>16:00 - 17:00</td>
     <td><a href="#1600--1700-poster-session-1">Poster Session 1</a></td>
-    <td><a href="#1600--1700-poster-session-2">Poster Session 2</a></td>
-    <td><a href="#1600--1700-software-session">Software Session</a></td>
-    <td><a href="#1600--1700-industry-session">Industry Session</a></td>
     <td><a href="#1600--1700-poster-session-3">Poster Session 3</a></td>
+    <td><a href="#1600--1700-poster-session-5">Poster Session 5</a></td>
+    <td><a href="#1600--1700-industry-session">Industry Session</a></td>
+    <td><a href="#1600--1700-software-session">Software Session</a></td>
+  </tr>
+  <tr>
+    <td>17:00 - 18:00</td>
+    <td><a href="#1700--1800-poster-session-2">Poster Session 2</a></td>
+    <td><a href="#1700--1800-poster-session-4">Poster Session 4</a></td>
+    <td><a href="#1700--1800-poster-session-6">Poster Session 6</a></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>19:00 - 22:00</td>
@@ -154,6 +162,11 @@ This is a  **preliminary** program. It is subject to change!
   * Posters...
 * Room *Number*: **Software Tools.**
   * Posters...
+##### 17:00 -- 18:00 Poster Session 2
+* Room *Number*: **Posters.**
+  * Posters...
+* Room *Number*: **Software Tools.**
+  * Posters...
 
 ## Tuesday
 
@@ -185,7 +198,12 @@ This is a  **preliminary** program. It is subject to change!
   * Matthew Wilson and Giulio Chiribella. **Polycategories of Supermaps on Monoidal Categories.**
 
 ##### 15:30 -- 16:00 Break
-##### 16:00 -- 17:00 Poster Session 2
+##### 16:00 -- 17:00 Poster Session 3
+* Room *Number*: **Posters.**
+  * Posters...
+* Room *Number*: **Software Tools.**
+  * Posters...
+##### 17:00 -- 18:00 Poster Session 4
 * Room *Number*: **Posters.**
   * Posters...
 * Room *Number*: **Software Tools.**
@@ -222,7 +240,12 @@ This is a  **preliminary** program. It is subject to change!
   * Jiaxin Huang, Sarah Meng Li, Lia Yeh, Aleks Kissinger, Michele Mosca and Michael Vasmer. **Graphical CSS Code Transformation Using ZX Calculus.**
 
 ##### 15:30 -- 16:00 Break
-##### 16:00 -- 17:00 Software Session
+##### 16:00 -- 17:00 Poster Session 5
+* Room *Number*: **Posters.**
+  * Posters...
+* Room *Number*: **Software Tools.**
+  * Demos...
+##### 17:00 -- 18:00 Poster Session 6
 * Room *Number*: **Posters.**
   * Posters...
 * Room *Number*: **Software Tools.**
@@ -300,7 +323,7 @@ The dinner will be vegetarian, with a limited number of vegan options.
   * Tommy McElvanney and Miriam Backens. **Flow-preserving ZX-calculus rewrite rules for optimisation and obfuscation.**
 
 ##### 15:30 -- 16:00 Break
-##### 16:00 -- 17:00 Poster Session 3
+##### 16:00 -- 17:00 Software Session
 * Room *Number*: **Posters.**
   * Posters...
 * Room *Number*: **Software Tools.**
