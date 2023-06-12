@@ -260,7 +260,7 @@ This is a  **preliminary** program. It is subject to change!
 
 ##### 10:00 -- 10:30 **Break**
 ##### 10:30 -- 12:00 Parallel Session 7
-* Room *Number*: **Name???.**
+* Room *Number*: **Entanglement.**
   * Howard Barnum, Matthew Graydon and Alexander Wilce. **Locally Tomographic Shadows.**
   * Anita Buckley and Klemen Sivic. **New entanglement witnesses and entangled states.**
   * Seungbeom Chin, Yong-Su Kim, Marcin Karczewski and Sangmin Lee. **Graph approach to generate multipartite entanglement with linear quantum networks.**
