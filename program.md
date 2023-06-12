@@ -315,4 +315,5 @@ The dinner will be vegetarian, with a limited number of vegan options.
 
 ### Silver Sponsors
 ![University of Chicago](/images/uchicago.svg)
+### Organisational Support and Funding
 ![Inria](/images/inria.svg)
