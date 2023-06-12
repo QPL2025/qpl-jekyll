@@ -130,7 +130,7 @@ This is a  **preliminary** program. It is subject to change!
 
 ##### 09:00 -- 10:00 **Plenary Session 1**
 * Room *Number*.
-  * Nick Ormrod, V. Vilasini and Jonathan Barrett. **Which theories have a measurement problem? (Summary).**
+  * V. Vilasini and Roger Colbeck. **Causal inference in non-classical theories and compatibility with spacetime structure.**
   * Howard Barnum, Cozmin Ududec and John van de Wetering. **Self-duality and Jordan structure of quantum theory follow from homogeneity and pure transitivity.**
 
 ##### 10:00 -- 10:30 **Break**
@@ -147,25 +147,25 @@ This is a  **preliminary** program. It is subject to change!
 ##### 12:00 -- 14:00 **Lunch**
 
 ##### 14:00 -- 15:30 Parallel Session 2
-* Room *Number*: **Contextuality.**
-  * Nuriya Nurgalieva and V. Vilasini. **Multi-agent logical paradoxes and contextuality.**
-  * Vinicius P. Rossi, David Schmid, John H. Selby and Ana Belén Sainz. **Contextuality with vanishing coherence and maximal robustness to dephasing.**
-  * Rafael Wagner, Rui Soares Barbosa and Ernesto F. Galvão. **Inequalities witnessing coherence, nonlocality, and contextuality.**
 * Room *Number*: **Circuits.**
   * Ewan Murphy and Aleks Kissinger. **Global synthesis of CNOT circuits with holes.**
   * Julien Codsi and John van de Wetering. **Classically Simulating Quantum Supremacy IQP Circuits through a Random Graph Approach.**
   * Timothée Goubault de Brugière and Simon Martiel. **Shallower CNOT circuits on realistic quantum hardware.**
+* Room *Number*: **Higher-order Transformations.**
+  * Ravi Kunjwal and Ognyan Oreshkov. **Nonclassicality in correlations without causal order.**
+  * Alastair Abbott, Mehdi Mhalla and Pierre Pocreau. **Query Complexity of Boolean Functions under Indefinite Causal Order.**
+  * Tatsuki Odake, Hlér Kristjánsson, Akihito Soeda and Mio Murao. **Higher-order quantum transformations of Hamiltonian dynamics.**
 
 ##### 15:30 -- 16:00 Break
 ##### 16:00 -- 17:00 Poster Session 1
 * Room *Number*: **Posters.**
   * Posters...
-* Room *Number*: **Software Tools.**
+* Room *Number*: **Posters.**
   * Posters...
 ##### 17:00 -- 18:00 Poster Session 2
 * Room *Number*: **Posters.**
   * Posters...
-* Room *Number*: **Software Tools.**
+* Room *Number*: **Posters.**
   * Posters...
 
 ## Tuesday
@@ -201,12 +201,12 @@ This is a  **preliminary** program. It is subject to change!
 ##### 16:00 -- 17:00 Poster Session 3
 * Room *Number*: **Posters.**
   * Posters...
-* Room *Number*: **Software Tools.**
+* Room *Number*: **Posters.**
   * Posters...
 ##### 17:00 -- 18:00 Poster Session 4
 * Room *Number*: **Posters.**
   * Posters...
-* Room *Number*: **Software Tools.**
+* Room *Number*: **Posters.**
   * Posters...
 
 ## Wednesday
@@ -222,33 +222,33 @@ This is a  **preliminary** program. It is subject to change!
   * Beata Zjawin, David Schmid, Matty Hoban and Ana Belén Sainz. **Quantifying EPR: the resource theory of nonclassicality of common-cause assemblages.**
   * Kin Ian Lo, Mehrnoosh Sadrzadeh and Shane Mansfield. **Generalised Winograd Schema and its Contextuality.**
   * Lorenzo Catani, Ricardo Faleiro, Pierre-Emmanuel Emeriau, Shane Mansfield and Anna Pappa. **Connecting XOR and XOR\* games.**
-* Room *Number*: **Quantum Logic and ???.**
+* Room *Number*: **Uncertainy and Thermodynamics.**
   * Yunlong Xiao, Yuxiang Yang, Ximing Wang, Qing Liu and Mile Gu. **Quantum Uncertainty Principles for Measurements with Interventions.**
-  * Sebastian Horvat and Iulian Danut Toader. **Quantum logic and meaning.**
   * Yunlong Xiao, Gaurav Saxena, Ryuji Takagi, Sarvagya Upadhyay and Mile Gu. **The Dynamical Uncertainty Principle Determines the Programmability of Quantum Processors.**
+  * Thomas Theurer, Elia Zanoni, Carlo Maria Scandolo and Gilad Gour. **Thermodynamic state convertibility is determined by qubit cooling and heating.**
 
 ##### 12:00 -- 14:00 **Lunch**
 
 ##### 14:00 -- 15:30 Parallel Session 6
-* Room *Number*: **Clocks and Spacetime.**
-  * Nuriya Nurgalieva, Ralph Silva and Renato Renner. **Reconstructing the waiting time of a clock using the simplest possible reference.**
-  * Caroline Jones, Stefan Ludescher, Albert Aloy and Markus Müller. **Theory-independent randomness generation with spacetime symmetries.**
-  * V. Vilasini and Roger Colbeck. **Causal inference in non-classical theories and compatibility with spacetime structure.**
 * Room *Number*: **Error-correction.**
   * Alex Townsend-Teague, Julio Magdalena de la Fuente and Markus Kesselring. **Re-Implementing Stabilizer Codes as Floquet Codes.**
   * Cole Comfort. **The Algebra of Stabilizer Codes (Extended Abstract).**
   * Jiaxin Huang, Sarah Meng Li, Lia Yeh, Aleks Kissinger, Michele Mosca and Michael Vasmer. **Graphical CSS Code Transformation Using ZX Calculus.**
+* Room *Number*: **Foundations.**
+  * Sebastian Horvat and Iulian Danut Toader. **Quantum logic and meaning.**
+  * Howard Barnum, Matthew Graydon and Alexander Wilce. **Locally Tomographic Shadows.**
+  * Nick Ormrod, V. Vilasini and Jonathan Barrett. **Which theories have a measurement problem? (Summary).**
 
 ##### 15:30 -- 16:00 Break
 ##### 16:00 -- 17:00 Poster Session 5
 * Room *Number*: **Posters.**
   * Posters...
-* Room *Number*: **Software Tools.**
+* Room *Number*: **Posters.**
   * Demos...
 ##### 17:00 -- 18:00 Poster Session 6
 * Room *Number*: **Posters.**
   * Posters...
-* Room *Number*: **Software Tools.**
+* Room *Number*: **Posters.**
   * Demos...
 
 ## Thursday
@@ -261,13 +261,13 @@ This is a  **preliminary** program. It is subject to change!
 ##### 10:00 -- 10:30 **Break**
 ##### 10:30 -- 12:00 Parallel Session 7
 * Room *Number*: **Entanglement.**
-  * Howard Barnum, Matthew Graydon and Alexander Wilce. **Locally Tomographic Shadows.**
   * Anita Buckley and Klemen Sivic. **New entanglement witnesses and entangled states.**
+  * Anindita Bera, Giovanni Scala, Gniewkomir Sarbicki and Dariusz Chruściński. **Generalizing Choi map in $M_3$ beyond circulant scenario.**
   * Seungbeom Chin, Yong-Su Kim, Marcin Karczewski and Sangmin Lee. **Graph approach to generate multipartite entanglement with linear quantum networks.**
-* Room *Number*: **Higher-order Transformations.**
-  * Ravi Kunjwal and Ognyan Oreshkov. **Nonclassicality in correlations without causal order.**
-  * Alastair Abbott, Mehdi Mhalla and Pierre Pocreau. **Query Complexity of Boolean Functions under Indefinite Causal Order.**
-  * Tatsuki Odake, Hlér Kristjánsson, Akihito Soeda and Mio Murao. **Higher-order quantum transformations of Hamiltonian dynamics.**
+* Room *Number*: **Contextuality.**
+  * Nuriya Nurgalieva and V. Vilasini. **Multi-agent logical paradoxes and contextuality.**
+  * Vinicius P. Rossi, David Schmid, John H. Selby and Ana Belén Sainz. **Contextuality with vanishing coherence and maximal robustness to dephasing.**
+  * Rafael Wagner, Rui Soares Barbosa and Ernesto F. Galvão. **Inequalities witnessing coherence, nonlocality, and contextuality.**
 
 ##### 12:00 -- 14:00 **Lunch**
 
@@ -289,6 +289,7 @@ This is a  **preliminary** program. It is subject to change!
   * Talk 3: ???
   * Talk 4: ???
   * Rename to Sponsor Session???
+
 ##### 17:00 -- 18:00 QPL General Meeting
 * Room *Number*
   * Discussion about QPL organisation
@@ -318,9 +319,9 @@ The dinner will be vegetarian, with a limited number of vegan options.
 ##### 12:00 -- 14:00 **Lunch**
 
 ##### 14:00 -- 15:30 Parallel Session 10
-* Room *Number*: **Name???.**
-  * Anindita Bera, Giovanni Scala, Gniewkomir Sarbicki and Dariusz Chruściński. **Generalizing Choi map in $M_3$ beyond circulant scenario.**
-  * Thomas Theurer, Elia Zanoni, Carlo Maria Scandolo and Gilad Gour. **Thermodynamic state convertibility is determined by qubit cooling and heating.**
+* Room *Number*: **Clocks and Spacetime.**
+  * Nuriya Nurgalieva, Ralph Silva and Renato Renner. **Reconstructing the waiting time of a clock using the simplest possible reference.**
+  * Caroline Jones, Stefan Ludescher, Albert Aloy and Markus Müller. **Theory-independent randomness generation with spacetime symmetries.**
 * Room *Number*: **Diagrammatic Calculi.**
   * Boldizsár Poór, Robert I. Booth, Titouan Carette, John van de Wetering and Lia Yeh. **The Qupit Stabiliser ZX-travaganza: Simplified Axioms, Normal Forms and Graph-Theoretic Simplification.**
   * Tommy McElvanney and Miriam Backens. **Flow-preserving ZX-calculus rewrite rules for optimisation and obfuscation.**
