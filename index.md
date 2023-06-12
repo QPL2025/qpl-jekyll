@@ -90,8 +90,9 @@ We will update the website with more relevant information at a later time.
 ### Gold Sponsor
 ![Quantinuum](images/quantinuum.svg)
 
-### Silver Sponsors
+### Silver Sponsor
 ![University of Chicago](images/uchicago.svg)
+### Organisational Support and Funding
 ![Inria](images/inria.svg)
 
 ### Programme Committee Chairs
