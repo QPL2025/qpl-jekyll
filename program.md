@@ -103,7 +103,7 @@ The conference will take place at [Institut Henri Poincaré](https://www.ihp.fr/
     <td><a href="#1700--1800-poster-session-2">Poster Session 2</a></td>
     <td><a href="#1700--1800-poster-session-4">Poster Session 4</a></td>
     <td><a href="#1700--1800-poster-session-6">Poster Session 6</a></td>
-    <td></td>
+    <td><a href="#1700--1800-qpl-general-meeting">QPL General Meeting</a></td>
     <td></td>
   </tr>
   <tr>
@@ -289,6 +289,9 @@ This is a  **preliminary** program. It is subject to change!
   * Talk 3: ???
   * Talk 4: ???
   * Rename to Sponsor Session???
+##### 17:00 -- 18:00 QPL General Meeting
+* Room *Number*
+  * Discussion about QPL organisation
 
 ##### 19:00 -- 22:00 Conference Dinner
 The conference dinner will take place at "Les Belles Plantes" located at [47 Rue Cuvier](https://goo.gl/maps/QAZaN9ywTRRjjsXNA). It is a short walk (approximately 15 minutes) from the conference venue.
