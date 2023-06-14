@@ -300,7 +300,7 @@ This is a **preliminary** program. It is subject to some small changes.
 
 ##### 19:00 -- 22:00 Conference Dinner
 The conference dinner will take place at "Les Belles Plantes" located at [47 Rue Cuvier](https://goo.gl/maps/QAZaN9ywTRRjjsXNA). It is a short walk (approximately 15 minutes) from the conference venue.
-The dinner will be vegetarian, with a limited number of vegan options.
+The dinner will be vegetarian with vegan options available upon request.
 
 ## Friday
 

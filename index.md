@@ -83,6 +83,9 @@ The conference will take place at [Institut Henri Poincaré](https://www.ihp.fr/
 
 {% include map.html id="location" title="Conference Location" %}
 
+The conference dinner will take place at "Les Belles Plantes" located at [47 Rue Cuvier](https://goo.gl/maps/QAZaN9ywTRRjjsXNA). It is a short walk (approximately 15 minutes) from the conference venue.
+The dinner will be vegetarian with vegan options available upon request.
+
 We will update the website with more relevant information at a later time.
 
 ### Diamond Sponsor
