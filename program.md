@@ -129,6 +129,8 @@ The conference will take place at [Institut Henri Poincaré](https://www.ihp.fr/
 
 Hint: the table above has clickable entries that serve as shortcuts to more detailed information. The program also is available on [Google Calendar](https://calendar.google.com/calendar/u/1?cid=YmQ3Y2JjNzUzMDNjMDMzMDcxOTc1YzRkN2U3Mzc5Yzc4NDU0MzMyMGE3ZTNhNzA4YTNhZTE0ZTIzYjExMTcyN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
+The duration of talks in plenary sessions and parallel sessions are 30 minutes (including questions) each. The only exception is the talk in [Plenary Session 2](https://qpl2023.github.io/program/#0900--1000-plenary-session-2) because it merges two submissions made by the same authors.
+
 Lunches are *not* provided by the conference organisers. There are many restaurants and food options close to the conference venue. Feel free to ask one of the local helpers for advice or recommendations.
 
 This is a **preliminary** program. It is subject to some small changes.
@@ -190,7 +192,7 @@ This is a **preliminary** program. It is subject to some small changes.
 * Room *TBD*: **Diagrammatic Calculi and Complexity.**
   * Piotr Mitosek. **Constructing NP^#P-complete problems and #P-hardness of circuit extraction in phase-free ZH.**
   * Tuomas Laakkonen, Konstantinos Meichanetzidis and John van de Wetering. **Picturing counting reductions with the ZH-calculus.**
-  * Titouan Carette, Etienne Moutot, Thomas Perez and Renaud Vilmart. **Counting perfect matchings with the planar fragment of ZW-Calculus (Non-proceedings submission).**
+  * Titouan Carette, Etienne Moutot, Thomas Perez and Renaud Vilmart. **Counting perfect matchings with the planar fragment of ZW-Calculus.**
 
 ##### 12:00 -- 14:00 **Lunch**
 
@@ -244,7 +246,7 @@ This is a **preliminary** program. It is subject to some small changes.
 * Room *TBD*: **Foundations.**
   * Sebastian Horvat and Iulian Danut Toader. **Quantum logic and meaning.**
   * Howard Barnum, Matthew Graydon and Alexander Wilce. **Locally Tomographic Shadows.**
-  * Nick Ormrod, V. Vilasini and Jonathan Barrett. **Which theories have a measurement problem? (Summary).**
+  * Nick Ormrod, V. Vilasini and Jonathan Barrett. **Which theories have a measurement problem?**
 
 ##### 15:30 -- 16:00 Break
 ##### 16:00 -- 17:00 Poster Session 5
@@ -262,7 +264,7 @@ This is a **preliminary** program. It is subject to some small changes.
 
 ##### 09:00 -- 10:00 **Plenary Session 4**
 * Room *TBD*.
-  * Boldizsár Poór, Quanlong Wang, Razin Shaikh, Lia Yeh, Richie Yeung and Bob Coecke. **Completeness for arbitrary finite dimensions of ZXW-calculus, a unifying calculus (Non-proceedings).**
+  * Boldizsár Poór, Quanlong Wang, Razin Shaikh, Lia Yeh, Richie Yeung and Bob Coecke. **Completeness for arbitrary finite dimensions of ZXW-calculus, a unifying calculus.**
   * Alexandre Clément, Noé Delorme, Simon Perdrix and Renaud Vilmart. **Simple Complete Equational Theories for Quantum Circuits with Ancillae or Partial Trace.**
 
 ##### 10:00 -- 10:30 **Break**
@@ -286,7 +288,7 @@ This is a **preliminary** program. It is subject to some small changes.
 * Room *TBD*: **Diagrammatic Calculi.**
   * Patrick Roy, John van de Wetering and Lia Yeh. **The qudit ZH-calculus: generalised Toffoli+Hadamard and universality.**
   * Giovanni de Felice, Razin Shaikh, Boldizsar Poor, Lia Yeh, Quanlong Wang and Bob Coecke. **Light-matter rewriting in the ZXW calculus.**
-  * Titouan Carette, Timothée Hoffreumon, Émile Larroque and Renaud Vilmart. **Complete Graphical Language for Hermiticity-Preserving Superoperators (non-proceedings).**
+  * Titouan Carette, Timothée Hoffreumon, Émile Larroque and Renaud Vilmart. **Complete Graphical Language for Hermiticity-Preserving Superoperators.**
 
 ##### 15:30 -- 16:00 Break
 ##### 16:00 -- 17:00 Industry Session
@@ -313,7 +315,7 @@ The dinner will be vegetarian with vegan options available upon request.
 ##### 10:30 -- 12:00 Parallel Session 9
 * Room *TBD*: **Error-correction.**
   * Alex Townsend-Teague, Julio Magdalena de la Fuente and Markus Kesselring. **Re-Implementing Stabilizer Codes as Floquet Codes.**
-  * Cole Comfort. **The Algebra of Stabilizer Codes (Extended Abstract).**
+  * Cole Comfort. **The Algebra of Stabilizer Codes.**
   * Jiaxin Huang, Sarah Meng Li, Lia Yeh, Aleks Kissinger, Michele Mosca and Michael Vasmer. **Graphical CSS Code Transformation Using ZX Calculus.**
 * Room *TBD*: **Information and Disturbance.**
   * Gilad Gour, Mark Wilde, Sam Brandsen and Isabelle Geng. **Inevitability of knowing less than nothing.**
@@ -333,7 +335,11 @@ The dinner will be vegetarian with vegan options available upon request.
 ##### 15:00 -- 15:30 Break
 ##### 15:30 -- 17:00 Software Session
 * Room *TBD*: **Software Tools.**
-  * Software Tool Presentations (TBA)
+  * Shinichi Sunami and Masato Fukushima. **Graphix: Bridging Quantum Algorithms and Measurement Patterns.**
+  * Seyon Sivarajah, Lukas Heidemann, Alan Lawrence and Ross Duncan. **Tierkreis: a Dataflow Framework for Hybrid Quantum-Classical Computing.**
+  * Vincent Russo, Andrea Mari, Nathan Shammah, Ryan LaRose and William J. Zeng. **Testing platform-independent quantum error mitigation on noisy quantum computers.**
+  * Razin A. Shaikh, Jonathon Liu, Benjamin Rodatz, Richie Yeung and Bob Coecke. **Automated Derivation of Text Structure as Circuits.**
+  * Cameron Foreman, Richie Yeung, Alec Edgington and Florian Curchod. **cryptomite: A versatile, simple to use library of randomness extractors.**
 
 ### Diamond Sponsor
 
