@@ -28,8 +28,6 @@ linguistics, artificial intelligence, and causality) is also welcome.
 
 All deadlines are stated with respect to the [Anywhere on Earth (AoE) time zone](https://www.timeanddate.com/time/zones/aoe).
 
-Registration is still not open, but we hope that it will be available soon.
-
 ### Submissions
 
 Prospective speakers are invited to submit one (or more) of the following:
@@ -58,6 +56,10 @@ There will be an award for Best Student Paper that will be determined by the
 Program Committee. Papers eligible for the award are those where all the
 authors are students at the time of submission.
 
+### Registration
+
+Registration is not open yet (we are waiting for some things to finish), but we hope to be able to open it soon. Please check back soon.
+
 ### Presentations
 
 Authors of accepted proceedings and non-proceedings submissions will be invited
@@ -67,7 +69,7 @@ their work at the poster session. Authors of accepted programming tool
 submissions will be invited to live demo their tool to conference attendees, at
 the same time as the poster session.
 
-
+The (preliminary) conference program is available [here](/program).
 
 ### Conference Proceedings
 
