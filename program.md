@@ -38,6 +38,22 @@ The conference will take place at [Institut Henri Poincaré](https://www.ihp.fr/
     <th><a style="text-decoration:none; color:inherit;" href="#thursday">Thursday</a></th>
     <th><a style="text-decoration:none; color:inherit;" href="#friday">Friday</a></th>
   </tr>
+  <tr>
+    <td>08:00 - 08:45</td>
+    <td>Registration</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>08:45 - 09:00</td>
+    <td><a href="#0845--0900-opening-remarks">Opening<br>Remarks</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
   <tr style="background-color: #f2f2f2">
     <td>09:00 - 10:00</td>
     <td><a href="#0900--1000-plenary-session-1">Plenary<br> Session 1</a></td>
@@ -102,8 +118,8 @@ The conference will take place at [Institut Henri Poincaré](https://www.ihp.fr/
     <td style="background-color: #f2f2f2"><a href="#1700--1800-poster-session-2">Poster<br> Session 2</a></td>
     <td style="background-color: #f2f2f2"><a href="#1700--1800-poster-session-4">Poster<br> Session 4</a></td>
     <td style="background-color: #f2f2f2"><a href="#1700--1800-poster-session-6">Poster<br> Session 6</a></td>
-    <td style="background-color: #f2f2f2"><a href="#1700--1800-qpl-general-meeting">QPL General<br> Meeting</a></td>
     <td></td>
+    <td style="background-color: #f2f2f2"><a href="#1700--1800-qpl-general-meeting">QPL General<br> Meeting</a></td>
   </tr>
   <tr>
     <td>18:00 - 19:00</td>
@@ -136,6 +152,9 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 This is a **preliminary** program. It is subject to some small changes.
 
 ## Monday
+
+##### 08:45 -- 09:00 **Opening Remarks**
+* Room *TBD*.
 
 ##### 09:00 -- 10:00 **Plenary Session 1**
 * Room *TBD*.
@@ -296,9 +315,6 @@ This is a **preliminary** program. It is subject to some small changes.
   * Quandela
   * Quantinuum
 
-##### 17:00 -- 18:00 QPL General Meeting
-* Room *TBD*
-  * Discussion about QPL organisation
 
 ##### 19:00 -- 22:00 Conference Dinner
 The conference dinner will take place at "Les Belles Plantes" located at [47 Rue Cuvier](https://goo.gl/maps/QAZaN9ywTRRjjsXNA). It is a short walk (approximately 15 minutes) from the conference venue.
@@ -341,6 +357,10 @@ The dinner will be vegetarian with vegan options available upon request.
   * Razin A. Shaikh, Jonathon Liu, Benjamin Rodatz, Richie Yeung and Bob Coecke. **Automated Derivation of Text Structure as Circuits.**
   * Cameron Foreman, Richie Yeung, Alec Edgington and Florian Curchod. **cryptomite: A versatile, simple to use library of randomness extractors.**
 
+##### 17:00 -- 18:00 QPL General Meeting
+* Room *TBD*
+  * Discussion about QPL organisation
+
 ### Diamond Sponsor
 
 ![Quandela](/images/quandela.svg)
@@ -348,7 +368,7 @@ The dinner will be vegetarian with vegan options available upon request.
 ### Gold Sponsor
 ![Quantinuum](/images/quantinuum.svg)
 
-### Silver Sponsors
+### Silver Sponsor
 ![University of Chicago](/images/uchicago.svg)
 ### Organisational Support and Funding
 ![Inria](/images/inria.svg)
