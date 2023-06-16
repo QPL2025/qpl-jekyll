@@ -351,6 +351,7 @@ The dinner will be vegetarian with vegan options available upon request.
 ##### 15:00 -- 15:30 Break
 ##### 15:30 -- 17:00 Software Session
 * Room *TBD*: **Software Tools.**
+  * Felix Zilk, Korbinian Staudacher, Tobias Guggemos, Karl Fürlinger, Dieter Kranzlmüller and Philip Walther. **A compiler for universal photonic quantum computers.**
   * Shinichi Sunami and Masato Fukushima. **Graphix: Bridging Quantum Algorithms and Measurement Patterns.**
   * Seyon Sivarajah, Lukas Heidemann, Alan Lawrence and Ross Duncan. **Tierkreis: a Dataflow Framework for Hybrid Quantum-Classical Computing.**
   * Vincent Russo, Andrea Mari, Nathan Shammah, Ryan LaRose and William J. Zeng. **Testing platform-independent quantum error mitigation on noisy quantum computers.**
