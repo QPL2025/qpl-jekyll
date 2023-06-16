@@ -48,7 +48,7 @@ The conference will take place at [Institut Henri Poincaré](https://www.ihp.fr/
   </tr>
   <tr>
     <td>08:45 - 09:00</td>
-    <td><a href="#0845--0900-opening-remarks">Opening<br>Remarks</a></td>
+    <td><a href="#0845--0900-opening-remarks">Opening Remarks</a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -56,11 +56,11 @@ The conference will take place at [Institut Henri Poincaré](https://www.ihp.fr/
   </tr>
   <tr style="background-color: #f2f2f2">
     <td>09:00 - 10:00</td>
-    <td><a href="#0900--1000-plenary-session-1">Plenary<br> Session 1</a></td>
-    <td><a href="#0900--1000-plenary-session-2">Plenary<br> Session 2</a></td>
-    <td><a href="#0900--1000-plenary-session-3">Plenary<br> Session 3</a></td>
-    <td><a href="#0900--1000-plenary-session-4">Plenary<br> Session 4</a></td>
-    <td><a href="#0900--1000-plenary-session-5">Plenary<br> Session 5</a></td>
+    <td><a href="#0900--1000-plenary-session-1">Plenary Session 1</a></td>
+    <td><a href="#0900--1000-plenary-session-2">Plenary Session 2</a></td>
+    <td><a href="#0900--1000-plenary-session-3">Plenary Session 3</a></td>
+    <td><a href="#0900--1000-plenary-session-4">Plenary Session 4</a></td>
+    <td><a href="#0900--1000-plenary-session-5">Plenary Session 5</a></td>
   </tr>
   <tr>
     <td>10:00 - 10:30</td>
@@ -72,11 +72,11 @@ The conference will take place at [Institut Henri Poincaré](https://www.ihp.fr/
   </tr>
   <tr style="background-color: #f2f2f2">
     <td>10:30 - 12:00</td>
-    <td><a href="#1030--1200-parallel-session-1">Parallel<br> Session 1</a></td>
-    <td><a href="#1030--1200-parallel-session-3">Parallel<br> Session 3</a></td>
-    <td><a href="#1030--1200-parallel-session-5">Parallel<br> Session 5</a></td>
-    <td><a href="#1030--1200-parallel-session-7">Parallel<br> Session 7</a></td>
-    <td><a href="#1030--1200-parallel-session-9">Parallel<br> Session 9</a></td>
+    <td><a href="#1030--1200-parallel-session-1">Parallel Session 1</a></td>
+    <td><a href="#1030--1200-parallel-session-3">Parallel Session 3</a></td>
+    <td><a href="#1030--1200-parallel-session-5">Parallel Session 5</a></td>
+    <td><a href="#1030--1200-parallel-session-7">Parallel Session 7</a></td>
+    <td><a href="#1030--1200-parallel-session-9">Parallel Session 9</a></td>
   </tr>
   <tr>
     <td>12:00 - 14:00</td>
@@ -88,11 +88,11 @@ The conference will take place at [Institut Henri Poincaré](https://www.ihp.fr/
   </tr>
   <tr style="background-color: #f2f2f2">
     <td>14:00 - 15:00</td>
-    <td rowspan="2"><a href="#1400--1530-parallel-session-2">Parallel<br> Session 2</a></td>
-    <td rowspan="2"><a href="#1400--1530-parallel-session-4">Parallel<br> Session 4</a></td>
-    <td rowspan="2"><a href="#1400--1530-parallel-session-6">Parallel<br> Session 6</a></td>
-    <td rowspan="2"><a href="#1400--1530-parallel-session-8">Parallel<br> Session 8</a></td>
-    <td><a href="#1400--1500-parallel-session-10">Parallel<br> Session 10</a></td>
+    <td rowspan="2"><a href="#1400--1530-parallel-session-2">Parallel Session 2</a></td>
+    <td rowspan="2"><a href="#1400--1530-parallel-session-4">Parallel Session 4</a></td>
+    <td rowspan="2"><a href="#1400--1530-parallel-session-6">Parallel Session 6</a></td>
+    <td rowspan="2"><a href="#1400--1530-parallel-session-8">Parallel Session 8</a></td>
+    <td><a href="#1400--1500-parallel-session-10">Parallel Session 10</a></td>
   </tr>
   <tr>
     <td style="background-color: #f2f2f2">15:00 - 15:30</td>
@@ -104,22 +104,22 @@ The conference will take place at [Institut Henri Poincaré](https://www.ihp.fr/
     <td>Break</td>
     <td>Break</td>
     <td>Break</td>
-    <td rowspan="2" style="background-color: #f2f2f2"><a href="#1530--1700-software-session">Software<br> Session</a></td>
+    <td rowspan="2" style="background-color: #f2f2f2"><a href="#1530--1700-software-session">Software Session</a></td>
   </tr>
   <tr style="background-color: #f2f2f2">
     <td>16:00 - 17:00</td>
-    <td><a href="#1600--1700-poster-session-1">Poster<br> Session 1</a></td>
-    <td><a href="#1600--1700-poster-session-3">Poster<br> Session 3</a></td>
-    <td><a href="#1600--1700-poster-session-5">Poster<br> Session 5</a></td>
-    <td><a href="#1600--1700-industry-session">Industry<br> Session</a></td>
+    <td><a href="#1600--1700-poster-session-1">Poster Session 1</a></td>
+    <td><a href="#1600--1700-poster-session-3">Poster Session 3</a></td>
+    <td><a href="#1600--1700-poster-session-5">Poster Session 5</a></td>
+    <td><a href="#1600--1700-industry-session">Industry Session</a></td>
   </tr>
   <tr>
     <td style="background-color: #f2f2f2">17:00 - 18:00</td>
-    <td style="background-color: #f2f2f2"><a href="#1700--1800-poster-session-2">Poster<br> Session 2</a></td>
-    <td style="background-color: #f2f2f2"><a href="#1700--1800-poster-session-4">Poster<br> Session 4</a></td>
-    <td style="background-color: #f2f2f2"><a href="#1700--1800-poster-session-6">Poster<br> Session 6</a></td>
+    <td style="background-color: #f2f2f2"><a href="#1700--1800-poster-session-2">Poster Session 2</a></td>
+    <td style="background-color: #f2f2f2"><a href="#1700--1800-poster-session-4">Poster Session 4</a></td>
+    <td style="background-color: #f2f2f2"><a href="#1700--1800-poster-session-6">Poster Session 6</a></td>
     <td></td>
-    <td style="background-color: #f2f2f2"><a href="#1700--1800-qpl-general-meeting">QPL General<br> Meeting</a></td>
+    <td style="background-color: #f2f2f2"><a href="#1700--1800-qpl-general-meeting">QPL General Meeting</a></td>
   </tr>
   <tr>
     <td>18:00 - 19:00</td>
@@ -134,7 +134,7 @@ The conference will take place at [Institut Henri Poincaré](https://www.ihp.fr/
     <td></td>
     <td></td>
     <td></td>
-    <td><a href="#1900--2200-conference-dinner">Conference<br> Dinner</a></td>
+    <td><a href="#1900--2200-conference-dinner">Conference Dinner</a></td>
     <td></td>
   </tr>
 </table>
@@ -170,7 +170,7 @@ This is a **preliminary** program. It is subject to some small changes.
 * Room *TBD*: **Categories.**
   * Jean-Simon Lemay and Robin Cockett. **Moore-Penrose Dagger Categories.**
   * Gejza Jenča and Bert Lindenhovius. **Quantum suplattices.**
-  * Chris Heunen and Nesta van der Schaaf. **Ordered locales.**
+  * Matthew Wilson and Giulio Chiribella. **Polycategories of Supermaps on Monoidal Categories.**
 
 ##### 12:00 -- 14:00 **Lunch**
 
@@ -220,10 +220,10 @@ This is a **preliminary** program. It is subject to some small changes.
   * Paulo Cavalcanti, John Selby and Ana Belen Sainz. **Every no-signalling channel is common-cause realizable.**
   * Gerd Niestegge. **Quantum transition probability and convex sets.**
   * Martin Plávala and Matthias Kleinmann. **Generalized dynamical theories in phase space and the hydrogen atom.**
-* Room *TBD*: **Quantum (De)compositional Aspects.**
+* Room *TBD*: **(De)compositional Aspects.**
   * Jacques Carette, Chris Heunen, Robin Kaarsgaard and Amr Sabry. **The Quantum Effect: a recipe for QuantumPi.**
   * Pablo Arrighi, Amélia Durbec and Matt Wilson. **Generalized tensors and partial traces over quantum networks.**
-  * Matthew Wilson and Giulio Chiribella. **Polycategories of Supermaps on Monoidal Categories.**
+  * Chris Heunen and Nesta van der Schaaf. **Ordered locales.**
 
 ##### 15:30 -- 16:00 Break
 ##### 16:00 -- 17:00 Poster Session 3
