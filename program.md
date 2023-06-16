@@ -143,7 +143,7 @@ The conference will take place at [Institut Henri Poincaré](https://www.ihp.fr/
 </html>
 
 
-Hint: the table above has clickable entries that serve as shortcuts to more detailed information. The program also is available on [Google Calendar](https://calendar.google.com/calendar/u/1?cid=YmQ3Y2JjNzUzMDNjMDMzMDcxOTc1YzRkN2U3Mzc5Yzc4NDU0MzMyMGE3ZTNhNzA4YTNhZTE0ZTIzYjExMTcyN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
+Hint: the table above has clickable entries that serve as shortcuts to more detailed information. An overview of the program is available on [Google Calendar](https://calendar.google.com/calendar/u/1?cid=YmQ3Y2JjNzUzMDNjMDMzMDcxOTc1YzRkN2U3Mzc5Yzc4NDU0MzMyMGE3ZTNhNzA4YTNhZTE0ZTIzYjExMTcyN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
 The duration of talks in plenary sessions and parallel sessions are 30 minutes (including questions) each. The only exception is the talk in [Plenary Session 2](https://qpl2023.github.io/program/#0900--1000-plenary-session-2) because it merges two submissions made by the same authors.
 
