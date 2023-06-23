@@ -75,7 +75,10 @@ The (preliminary) conference program is available [here](/program).
 
 Conference proceedings will be published in [Electronic Proceedings in
 Theoretical Computer Science (EPTCS)](https://about.eptcs.org/) after the
-conference.
+conference. When preparing the final version for publication, authors of
+accepted proceedings submissions are allowed to use up to three extra pages
+(i.e. up to 15 pages excluding bibliography) to address reviewer concerns and
+suggestions under the provisio that they do not introduce new results.
 
 ### Local Information
 
@@ -100,7 +103,7 @@ We will update the website with more relevant information at a later time.
 ### Organisational Support and Funding
 ![Inria](images/inria.svg)
 
-### Programme Committee Chairs
+### Programme Committee Co-chairs
 
 * [Shane Mansfield](https://scholar.google.fr/citations?user=g6DV3UkAAAAJ&hl=en) (Quandela)
 * [Benoît Valiron](https://www.monoidal.net/) (LMF, CentraleSupelec, Université Paris-Saclay)

@@ -1,5 +1,5 @@
 ---
-title: Conference Program (PRELIMINARY)
+title: Conference Program
 ---
 
 The conference will take place at [Institut Henri Poincaré](https://www.ihp.fr/en) which is located at [11 Rue Pierre et Marie Curie, Paris, France](https://goo.gl/maps/fsjZnqgBsWipNZam8).
@@ -145,11 +145,9 @@ The conference will take place at [Institut Henri Poincaré](https://www.ihp.fr/
 
 Hint: the table above has clickable entries that serve as shortcuts to more detailed information. An overview of the program is available on [Google Calendar](https://calendar.google.com/calendar/u/1?cid=YmQ3Y2JjNzUzMDNjMDMzMDcxOTc1YzRkN2U3Mzc5Yzc4NDU0MzMyMGE3ZTNhNzA4YTNhZTE0ZTIzYjExMTcyN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
-The duration of talks in plenary sessions and parallel sessions are 30 minutes (including questions) each. The only exception is the talk in [Plenary Session 2](https://qpl2023.github.io/program/#0900--1000-plenary-session-2) because it merges two submissions made by the same authors.
+The duration of talks in plenary sessions and parallel sessions are 30 minutes (including approximately 5 minutes for questions) each. The only exception is the talk in [Plenary Session 2](https://qpl2023.github.io/program/#0900--1000-plenary-session-2) because it merges two submissions made by the same authors.
 
 Lunches are *not* provided by the conference organisers. There are many restaurants and food options close to the conference venue. Feel free to ask one of the local helpers for advice or recommendations.
-
-This is a **preliminary** program. It is subject to some small changes.
 
 ## Monday
 
@@ -166,7 +164,7 @@ This is a **preliminary** program. It is subject to some small changes.
 * Room *TBD*: **Causality.**
   * Eleftherios Tselentis and Ämin Baumeler. **Admissible Causal Structures and Correlations.**
   * Stefano Gogioso and Nicola Pinzani. **The Topology of Causality.**
-  * Ravi Kunjwal and Ämin Baumeler. **Trading causal order for locality.**
+  * Ravi Kunjwal and Ämin Baumeler. **Trading causal order for locality.** Remote Presentation.
 * Room *TBD*: **Categories.**
   * Jean-Simon Lemay and Robin Cockett. **Moore-Penrose Dagger Categories.**
   * Gejza Jenča and Bert Lindenhovius. **Quantum suplattices.**
@@ -180,7 +178,7 @@ This is a **preliminary** program. It is subject to some small changes.
   * Julien Codsi and John van de Wetering. **Classically Simulating Quantum Supremacy IQP Circuits through a Random Graph Approach.**
   * Timothée Goubault de Brugière and Simon Martiel. **Shallower CNOT circuits on realistic quantum hardware.**
 * Room *TBD*: **Higher-order Transformations.**
-  * Ravi Kunjwal and Ognyan Oreshkov. **Nonclassicality in correlations without causal order.**
+  * Ravi Kunjwal and Ognyan Oreshkov. **Nonclassicality in correlations without causal order.** Remote Presentation.
   * Alastair Abbott, Mehdi Mhalla and Pierre Pocreau. **Query Complexity of Boolean Functions under Indefinite Causal Order.**
   * Tatsuki Odake, Hlér Kristjánsson, Akihito Soeda and Mio Murao. **Higher-order quantum transformations of Hamiltonian dynamics.**
 
@@ -371,5 +369,6 @@ The dinner will be vegetarian with vegan options available upon request.
 
 ### Silver Sponsor
 ![University of Chicago](/images/uchicago.svg)
+
 ### Organisational Support and Funding
 ![Inria](/images/inria.svg)
