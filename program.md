@@ -152,20 +152,20 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 ## Monday
 
 ##### 08:45 -- 09:00 **Opening Remarks**
-* Room *TBD*.
+* Room *Hermite*.
 
 ##### 09:00 -- 10:00 **Plenary Session 1**
-* Room *TBD*.
+* Room *Hermite*.
   * V. Vilasini and Roger Colbeck. **Causal inference in non-classical theories and compatibility with spacetime structure.**
   * Howard Barnum, Cozmin Ududec and John van de Wetering. **Self-duality and Jordan structure of quantum theory follow from homogeneity and pure transitivity.**
 
 ##### 10:00 -- 10:30 **Break**
 ##### 10:30 -- 12:00 Parallel Session 1
-* Room *TBD*: **Causality.**
+* Room *Hermite*: **Causality.**
   * Eleftherios Tselentis and Ämin Baumeler. **Admissible Causal Structures and Correlations.**
   * Stefano Gogioso and Nicola Pinzani. **The Topology of Causality.**
   * Ravi Kunjwal and Ämin Baumeler. **Trading causal order for locality.** Remote Presentation.
-* Room *TBD*: **Categories.**
+* Room *Darboux*: **Categories.**
   * Jean-Simon Lemay and Robin Cockett. **Moore-Penrose Dagger Categories.**
   * Gejza Jenča and Bert Lindenhovius. **Quantum suplattices.**
   * Matthew Wilson and Giulio Chiribella. **Polycategories of Supermaps on Monoidal Categories.**
@@ -173,82 +173,66 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 ##### 12:00 -- 14:00 **Lunch**
 
 ##### 14:00 -- 15:30 Parallel Session 2
-* Room *TBD*: **Circuits.**
+* Room *Hermite*: **Circuits.**
   * Ewan Murphy and Aleks Kissinger. **Global synthesis of CNOT circuits with holes.**
   * Julien Codsi and John van de Wetering. **Classically Simulating Quantum Supremacy IQP Circuits through a Random Graph Approach.**
   * Timothée Goubault de Brugière and Simon Martiel. **Shallower CNOT circuits on realistic quantum hardware.**
-* Room *TBD*: **Higher-order Transformations.**
+* Room *Darboux*: **Higher-order Transformations.**
   * Ravi Kunjwal and Ognyan Oreshkov. **Nonclassicality in correlations without causal order.** Remote Presentation.
   * Alastair Abbott, Mehdi Mhalla and Pierre Pocreau. **Query Complexity of Boolean Functions under Indefinite Causal Order.**
   * Tatsuki Odake, Hlér Kristjánsson, Akihito Soeda and Mio Murao. **Higher-order quantum transformations of Hamiltonian dynamics.**
 
 ##### 15:30 -- 16:00 Break
 ##### 16:00 -- 17:00 Poster Session 1
-* Room *TBD*: **Posters.**
-  * Posters (TBA)
-* Room *TBD*: **Posters.**
-  * Posters (TBA)
 ##### 17:00 -- 18:00 Poster Session 2
-* Room *TBD*: **Posters.**
-  * Posters (TBA)
-* Room *TBD*: **Posters.**
-  * Posters (TBA)
 
 ## Tuesday
 
 ##### 09:00 -- 10:00 **Plenary Session 2**
-* Room *TBD*.
+* Room *Hermite*.
   * Lorenzo Catani, Matthew Leifer, Giovanni Scala, David Schmid and Robert Spekkens. **What is nonclassical about uncertainty relations?**
 
 ##### 10:00 -- 10:30 **Break**
 ##### 10:30 -- 12:00 Parallel Session 3
-* Room *TBD*: **Foundations.**
-  * David Schmid. **Macrorealism as strict classicality in the framework of generalized probabilistic theories (and how to falsify it).**
-  * Lorenzo Giannelli, Carlo Maria Scandolo and Giulio Chiribella. **Indeterminism and Bell nonlocality with classical systems.**
-  * V. Vilasini and Mischa Woods. **A general quantum circuit framework for consistent logical reasoning in Wigner’s friend scenarios.**
-* Room *TBD*: **Diagrammatic Calculi and Complexity.**
+* Room *Hermite*: **Diagrammatic Calculi and Complexity.**
   * Piotr Mitosek. **Constructing NP^#P-complete problems and #P-hardness of circuit extraction in phase-free ZH.**
   * Tuomas Laakkonen, Konstantinos Meichanetzidis and John van de Wetering. **Picturing counting reductions with the ZH-calculus.**
   * Titouan Carette, Etienne Moutot, Thomas Perez and Renaud Vilmart. **Counting perfect matchings with the planar fragment of ZW-Calculus.**
+* Room *Darboux*: **Foundations.**
+  * David Schmid. **Macrorealism as strict classicality in the framework of generalized probabilistic theories (and how to falsify it).**
+  * Lorenzo Giannelli, Carlo Maria Scandolo and Giulio Chiribella. **Indeterminism and Bell nonlocality with classical systems.**
+  * V. Vilasini and Mischa Woods. **A general quantum circuit framework for consistent logical reasoning in Wigner’s friend scenarios.**
 
 ##### 12:00 -- 14:00 **Lunch**
 
 ##### 14:00 -- 15:30 Parallel Session 4
-* Room *TBD*: **Generalised Probabilistic Theories.**
+* Room *Hermite*: **Generalised Probabilistic Theories.**
   * Paulo Cavalcanti, John Selby and Ana Belen Sainz. **Every no-signalling channel is common-cause realizable.**
   * Gerd Niestegge. **Quantum transition probability and convex sets.**
   * Martin Plávala and Matthias Kleinmann. **Generalized dynamical theories in phase space and the hydrogen atom.**
-* Room *TBD*: **(De)compositional Aspects.**
+* Room *Darboux*: **(De)compositional Aspects.**
   * Jacques Carette, Chris Heunen, Robin Kaarsgaard and Amr Sabry. **The Quantum Effect: a recipe for QuantumPi.**
   * Pablo Arrighi, Amélia Durbec and Matt Wilson. **Generalized tensors and partial traces over quantum networks.**
   * Chris Heunen and Nesta van der Schaaf. **Ordered locales.**
 
 ##### 15:30 -- 16:00 Break
 ##### 16:00 -- 17:00 Poster Session 3
-* Room *TBD*: **Posters.**
-  * Posters (TBA)
-* Room *TBD*: **Posters.**
-  * Posters (TBA)
 ##### 17:00 -- 18:00 Poster Session 4
-* Room *TBD*: **Posters.**
-  * Posters (TBA)
-* Room *TBD*: **Posters.**
-  * Posters (TBA)
 
 ## Wednesday
 
 ##### 09:00 -- 10:00 **Plenary Session 3**
-* Room *TBD*.
+* Room *Hermite*.
   * Chris Heunen, Andre Kornell and Nesta van der Schaaf. **Axioms for the category of Hilbert spaces and linear contractions.**
   * Samson Abramsky and Rui Soares Barbosa. **Contextuality in logical form: duality for transitive partial CABAs.**
 
 ##### 10:00 -- 10:30 **Break**
 ##### 10:30 -- 12:00 Parallel Session 5
-* Room *TBD*: **Contextuality.**
+* Room *Hermite*: **Contextuality.**
   * Beata Zjawin, David Schmid, Matty Hoban and Ana Belén Sainz. **Quantifying EPR: the resource theory of nonclassicality of common-cause assemblages.**
   * Kin Ian Lo, Mehrnoosh Sadrzadeh and Shane Mansfield. **Generalised Winograd Schema and its Contextuality.**
   * Lorenzo Catani, Ricardo Faleiro, Pierre-Emmanuel Emeriau, Shane Mansfield and Anna Pappa. **Connecting XOR and XOR\* games.**
-* Room *TBD*: **Uncertainy and Thermodynamics.**
+* Room *Darboux*: **Uncertainy and Thermodynamics.**
   * Yunlong Xiao, Yuxiang Yang, Ximing Wang, Qing Liu and Mile Gu. **Quantum Uncertainty Principles for Measurements with Interventions.**
   * Yunlong Xiao, Gaurav Saxena, Ryuji Takagi, Sarvagya Upadhyay and Mile Gu. **The Dynamical Uncertainty Principle Determines the Programmability of Quantum Processors.**
   * Thomas Theurer, Elia Zanoni, Carlo Maria Scandolo and Gilad Gour. **Thermodynamic state convertibility is determined by qubit cooling and heating.**
@@ -256,62 +240,54 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 ##### 12:00 -- 14:00 **Lunch**
 
 ##### 14:00 -- 15:30 Parallel Session 6
-* Room *TBD*: **Circuits and Rewriting.**
+* Room *Hermite*: **Circuits and Rewriting.**
   * Matthew Amy. **Complete equational theories for the sum-over-paths with unbalanced amplitudes.**
   * Xiaoning Bian and Peter Selinger. **Generators and relations for 3-qubit Clifford+CS operators.**
   * Vivien Vandaele, Simon Martiel, Simon Perdrix and Christophe Vuillot. **Optimal Hadamard gate count for Clifford+T synthesis of Pauli rotations sequences.**
-* Room *TBD*: **Foundations.**
+* Room *Darboux*: **Foundations.**
   * Sebastian Horvat and Iulian Danut Toader. **Quantum logic and meaning.**
   * Howard Barnum, Matthew Graydon and Alexander Wilce. **Locally Tomographic Shadows.**
   * Nick Ormrod, V. Vilasini and Jonathan Barrett. **Which theories have a measurement problem?**
 
 ##### 15:30 -- 16:00 Break
 ##### 16:00 -- 17:00 Poster Session 5
-* Room *TBD*: **Posters.**
-  * Posters (TBA)
-* Room *TBD*: **Posters.**
-  * Posters (TBA)
 ##### 17:00 -- 18:00 Poster Session 6
-* Room *TBD*: **Posters.**
-  * Posters (TBA)
-* Room *TBD*: **Posters.**
-  * Posters (TBA)
 
 ## Thursday
 
 ##### 09:00 -- 10:00 **Plenary Session 4**
-* Room *TBD*.
+* Room *Hermite*.
   * Boldizsár Poór, Quanlong Wang, Razin Shaikh, Lia Yeh, Richie Yeung and Bob Coecke. **Completeness for arbitrary finite dimensions of ZXW-calculus, a unifying calculus.**
   * Alexandre Clément, Noé Delorme, Simon Perdrix and Renaud Vilmart. **Simple Complete Equational Theories for Quantum Circuits with Ancillae or Partial Trace.**
 
 ##### 10:00 -- 10:30 **Break**
 ##### 10:30 -- 12:00 Parallel Session 7
-* Room *TBD*: **Entanglement.**
-  * Anita Buckley and Klemen Sivic. **New entanglement witnesses and entangled states.**
-  * Anindita Bera, Giovanni Scala, Gniewkomir Sarbicki and Dariusz Chruściński. **Generalizing Choi map in $M_3$ beyond circulant scenario.**
-  * Seungbeom Chin, Yong-Su Kim, Marcin Karczewski and Sangmin Lee. **Graph approach to generate multipartite entanglement with linear quantum networks.**
-* Room *TBD*: **Contextuality.**
+* Room *Hermite*: **Contextuality.**
   * Nuriya Nurgalieva and V. Vilasini. **Multi-agent logical paradoxes and contextuality.**
   * Vinicius P. Rossi, David Schmid, John H. Selby and Ana Belén Sainz. **Contextuality with vanishing coherence and maximal robustness to dephasing.**
   * Rafael Wagner, Rui Soares Barbosa and Ernesto F. Galvão. **Inequalities witnessing coherence, nonlocality, and contextuality.**
+* Room *Darboux*: **Entanglement.**
+  * Anita Buckley and Klemen Sivic. **New entanglement witnesses and entangled states.**
+  * Anindita Bera, Giovanni Scala, Gniewkomir Sarbicki and Dariusz Chruściński. **Generalizing Choi map in $M_3$ beyond circulant scenario.**
+  * Seungbeom Chin, Yong-Su Kim, Marcin Karczewski and Sangmin Lee. **Graph approach to generate multipartite entanglement with linear quantum networks.**
 
 ##### 12:00 -- 14:00 **Lunch**
 
 ##### 14:00 -- 15:30 Parallel Session 8
-* Room *TBD*: **Quantum Computation.**
-  * Satoshi Yoshida, Akihito Soeda and Mio Murao. **Universal, deterministic, and exact protocol to reverse qubit-unitary and qubit-encoding isometry operations.**
-  * Michael Zurel, Lawrence Cohen and Robert Raussendorf. **Simulation of quantum computation with magic states via Jordan-Wigner transformations.**
-  * Filipa Peres. **The Pauli-based model of quantum computation with higher dimensional systems.**
-* Room *TBD*: **Diagrammatic Calculi.**
+* Room *Hermite*: **Diagrammatic Calculi.**
   * Patrick Roy, John van de Wetering and Lia Yeh. **The qudit ZH-calculus: generalised Toffoli+Hadamard and universality.**
   * Giovanni de Felice, Razin Shaikh, Boldizsar Poor, Lia Yeh, Quanlong Wang and Bob Coecke. **Light-matter rewriting in the ZXW calculus.**
   * Titouan Carette, Timothée Hoffreumon, Émile Larroque and Renaud Vilmart. **Complete Graphical Language for Hermiticity-Preserving Superoperators.**
+* Room *Darboux*: **Quantum Computation.**
+  * Satoshi Yoshida, Akihito Soeda and Mio Murao. **Universal, deterministic, and exact protocol to reverse qubit-unitary and qubit-encoding isometry operations.**
+  * Michael Zurel, Lawrence Cohen and Robert Raussendorf. **Simulation of quantum computation with magic states via Jordan-Wigner transformations.**
+  * Filipa Peres. **The Pauli-based model of quantum computation with higher dimensional systems.**
 
 ##### 15:30 -- 16:00 Break
 ##### 16:00 -- 17:00 Industry Session
-* Room *TBD*
-  * Quandela
-  * Quantinuum
+* Room *Hermite*
+  * Quandela (40 minutes)
+  * Quantinuum (20 minutes)
 
 
 ##### 19:00 -- 22:00 Conference Dinner
@@ -321,17 +297,17 @@ The dinner will be vegetarian with vegan options available upon request.
 ## Friday
 
 ##### 09:00 -- 10:00 **Plenary Session 5**
-* Room *TBD*.
+* Room *Hermite*.
   * Yu-Fang Chen, Kai-Min Chung, Ondřej Lengál, Jyun-Ao Lin, Wei-Lun Tsai and Di-De Yen. **An Automata-based Framework for Verification and Bug Hunting in Quantum Circuits.**
   * Matt Wilson, Giulio Chiribella and Aleks Kissinger. **Quantum Supermaps are Characterised by Locality.**
 
 ##### 10:00 -- 10:30 **Break**
 ##### 10:30 -- 12:00 Parallel Session 9
-* Room *TBD*: **Error-correction.**
+* Room *Hermite*: **Error-correction.**
   * Alex Townsend-Teague, Julio Magdalena de la Fuente and Markus Kesselring. **Re-Implementing Stabilizer Codes as Floquet Codes.**
   * Cole Comfort. **The Algebra of Stabilizer Codes.**
   * Jiaxin Huang, Sarah Meng Li, Lia Yeh, Aleks Kissinger, Michele Mosca and Michael Vasmer. **Graphical CSS Code Transformation Using ZX Calculus.**
-* Room *TBD*: **Information and Disturbance.**
+* Room *Darboux*: **Information and Disturbance.**
   * Gilad Gour, Mark Wilde, Sam Brandsen and Isabelle Geng. **Inevitability of knowing less than nothing.**
   * Leevi Leppäjärvi and Michal Sedlák. **Incompatibility of quantum instruments.**
   * Leonardo Vaglini, Alessandro Tosini and Paolo Perinotti. **Information content of a source in post-quantum theories.**
@@ -339,16 +315,16 @@ The dinner will be vegetarian with vegan options available upon request.
 ##### 12:00 -- 14:00 **Lunch**
 
 ##### 14:00 -- 15:00 Parallel Session 10
-* Room *TBD*: **Clocks and Spacetime.**
-  * Nuriya Nurgalieva, Ralph Silva and Renato Renner. **Reconstructing the waiting time of a clock using the simplest possible reference.**
-  * Caroline Jones, Stefan Ludescher, Albert Aloy and Markus Müller. **Theory-independent randomness generation with spacetime symmetries.**
-* Room *TBD*: **Diagrammatic Calculi.**
+* Room *Hermite*: **Diagrammatic Calculi.**
   * Boldizsár Poór, Robert I. Booth, Titouan Carette, John van de Wetering and Lia Yeh. **The Qupit Stabiliser ZX-travaganza: Simplified Axioms, Normal Forms and Graph-Theoretic Simplification.**
   * Tommy McElvanney and Miriam Backens. **Flow-preserving ZX-calculus rewrite rules for optimisation and obfuscation.**
+* Room *Darboux*: **Clocks and Spacetime.**
+  * Nuriya Nurgalieva, Ralph Silva and Renato Renner. **Reconstructing the waiting time of a clock using the simplest possible reference.**
+  * Caroline Jones, Stefan Ludescher, Albert Aloy and Markus Müller. **Theory-independent randomness generation with spacetime symmetries.**
 
 ##### 15:00 -- 15:30 Break
 ##### 15:30 -- 17:00 Software Session
-* Room *TBD*: **Software Tools.**
+* Room *Hermite*: **Software Tools.**
   * Felix Zilk, Korbinian Staudacher, Tobias Guggemos, Karl Fürlinger, Dieter Kranzlmüller and Philip Walther. **A compiler for universal photonic quantum computers.**
   * Shinichi Sunami and Masato Fukushima. **Graphix: Bridging Quantum Algorithms and Measurement Patterns.**
   * Seyon Sivarajah, Lukas Heidemann, Alan Lawrence and Ross Duncan. **Tierkreis: a Dataflow Framework for Hybrid Quantum-Classical Computing.**
@@ -357,7 +333,7 @@ The dinner will be vegetarian with vegan options available upon request.
   * Cameron Foreman, Richie Yeung, Alec Edgington and Florian Curchod. **cryptomite: A versatile, simple to use library of randomness extractors.**
 
 ##### 17:00 -- 18:00 QPL General Meeting
-* Room *TBD*
+* Room *Hermite*
   * Discussion about QPL organisation
 
 ### Diamond Sponsor

@@ -22,11 +22,11 @@ linguistics, artificial intelligence, and causality) is also welcome.
 * Abstract submission deadline: ~~1 March~~ 12 March 2023
 * Paper submission deadline: ~~7 March~~ 17 March 2023
 * Notification: 1 May 2023
-* Registration deadline: TBA
 * Camera-ready deadline: 1 July 2023
 * Conference: 17 July -- 21 July 2023
 
 All deadlines are stated with respect to the [Anywhere on Earth (AoE) time zone](https://www.timeanddate.com/time/zones/aoe).
+
 
 ### Submissions
 
@@ -58,7 +58,7 @@ authors are students at the time of submission.
 
 ### Registration
 
-Registration is not open yet (we are waiting for some things to finish), but we hope to be able to open it soon. Please check back soon.
+Some information about registration is available [here](/registration/).
 
 ### Presentations
 

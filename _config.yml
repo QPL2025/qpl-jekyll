@@ -42,6 +42,8 @@ navigation_header:
   url: /accepted/
 - title: Program
   url: /program/
+- title: Registration
+  url: /registration/
 
 # Footer nav
 navigation_footer:
