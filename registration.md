@@ -17,6 +17,8 @@ Registration is *free for all students* (dinner not included). We ask students w
 
 Permanent Inria employees may register for free and attend the conference dinner for free. To do so, please email Vladimir Zamdzhiev `{first.last at inria dot fr}` who will send you a special registration code that you can use during registration.
 
+If you have specific dietary requirements, please register for the dinner by Wednesday 12 July. The restaurant needs time to prepare, so we cannot guarantee that specific dietary requirements made after that date will be respected.
+
 Registration takes place [here](https://qpl2023.inviteo.fr/). Please register as soon as possible.
 
 Please contact the organisers if you have any questions.

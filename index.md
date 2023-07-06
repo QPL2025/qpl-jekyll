@@ -69,7 +69,7 @@ their work at the poster session. Authors of accepted programming tool
 submissions will be invited to live demo their tool to conference attendees, at
 the same time as the poster session.
 
-The (preliminary) conference program is available [here](/program).
+The conference program is available [here](/program).
 
 ### Conference Proceedings
 
@@ -86,10 +86,28 @@ The conference will take place at [Institut Henri Poincaré](https://www.ihp.fr/
 
 {% include map.html id="location" title="Conference Location" %}
 
+Paris has a dense public transportation network: metro, bus, tram and RER (regional train). A single one-way ticket costs 2.10€. There also are [packs](https://www.ratp.fr/en/titres-et-tarifs/t-tickets) and [day passes](https://www.ratp.fr/en/visite-paris/english/preparing-your-trip-tickets-and-travel-passes-designed-you). Notice that RER outside Paris (e.g. from/to airports) has specific fares. See also [local travel advice from IHP](https://www.ihp.fr/en/how-come-ihp).
+
+The two amphitheaters, Hermite and Darboux, are located on the ground floor.
+Coffee breaks will be held in between the morning sessions, and in between the afternoon sessions, in the space next to the two amphitheaters.
+Please do not eat or drink anything (except water) inside the amphitheaters.
+An additional room on the ground floor is at our disposal.
+
+We are also given access to the library on the first floor of the building. The only requirement is to simply fill in the registration list at the entrance of the library. The library is quite nice and it is worth checking out!
+
+Eduroam is accessible on site.
+
+Alternatively, you may use the "IHP-Guest" network, which can be accessed using the following procedure:
+1. Select the "IHP-Guest" network.
+2. In the pop-up window, click on the button "Receive your credentials on this portal".
+3. Fill in the form, and click "Register".
+4. You get your credentials *for the current day*.
+5. Clicking "Back", you get to the registration portal, but the credentials should be filled in. Click on "Connect". You now have access to the internet.
+
 The conference dinner will take place at "Les Belles Plantes" located at [47 Rue Cuvier](https://goo.gl/maps/QAZaN9ywTRRjjsXNA). It is a short walk (approximately 15 minutes) from the conference venue.
 The dinner will be vegetarian with vegan options available upon request.
 
-We will update the website with more relevant information at a later time.
+Lunches are *not* provided by the conference organisers. There are many restaurants and food options close to the conference venue.
 
 ### Diamond Sponsor
 
