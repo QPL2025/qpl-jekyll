@@ -58,7 +58,7 @@ authors are students at the time of submission.
 
 ### Registration
 
-Some information about registration is available [here](/registration/).
+Registration is now open. More information is available [here](/registration/).
 
 ### Presentations
 
