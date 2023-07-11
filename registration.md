@@ -2,8 +2,6 @@
 title: Registration
 ---
 
-Registration is now open!
-
 Registration is mandatory for everyone who wishes to attend. There is an additional option available during registration for those who wish to attend the conference dinner. The number of places is limited.
 
 The prices are as follows:
@@ -19,6 +17,6 @@ Permanent Inria employees may register for free and attend the conference dinner
 
 If you have specific dietary requirements, please register for the dinner by Wednesday 12 July. The restaurant needs time to prepare, so we cannot guarantee that specific dietary requirements made after that date will be respected.
 
-Registration takes place [here](https://qpl2023.inviteo.fr/). Please register as soon as possible.
+**We have restricted registrations for the time being, due to a large number of registrations and room size limitations.** If you would like to attend, please write an email to Vladimir Zamdzhiev `first.last@inria.fr` and Benoît Valiron `first.last@universite-paris-saclay.fr`.
 
 Please contact the organisers if you have any questions.
