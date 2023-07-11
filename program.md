@@ -184,7 +184,13 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 
 ##### 15:30 -- 16:00 Break
 ##### 16:00 -- 17:00 Poster Session 1
+* Room *Cafeteria.*
+  * Charles Yuan and Michael Carbin. **Tower: Data Structures in Quantum Superposition.**
+  * Ahmet Çevik and Zeki Seskir. **On the Cardinality of Future Worldlines in Discrete Spacetime Structures.**
+  * "Laurens Walleghem, Rui Soares Barbosa, Matthew Pusey and Stefan Weigert". **A hybrid Bell-FR paradox and the measurement postulate.**
 ##### 17:00 -- 18:00 Poster Session 2
+* Room *Cafeteria.*
+  * Angelos Bampounis and Rui Soares Barbosa. **Matchgate hierarchy: A Clifford-like hierarchy for matchgate circuits.**
 
 ## Tuesday
 
@@ -217,7 +223,10 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 
 ##### 15:30 -- 16:00 Break
 ##### 16:00 -- 17:00 Poster Session 3
+* Room *Cafeteria.*
+  * Victor Gitton and Mischa Woods. **On the system loophole of generalized noncontextuality.**
 ##### 17:00 -- 18:00 Poster Session 4
+* Room *Cafeteria.*
 
 ## Wednesday
 
@@ -343,8 +352,6 @@ The dinner will be vegetarian with vegan options available upon request.
 ### Gold Sponsor
 ![Quantinuum](/images/quantinuum.svg)
 
-### Silver Sponsor
-![University of Chicago](/images/uchicago.svg)
 
 ### Organisational Support and Funding
 ![Inria](/images/inria.svg)

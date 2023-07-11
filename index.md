@@ -116,8 +116,6 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 ### Gold Sponsor
 ![Quantinuum](images/quantinuum.svg)
 
-### Silver Sponsor
-![University of Chicago](images/uchicago.svg)
 ### Organisational Support and Funding
 ![Inria](images/inria.svg)
 
