@@ -17,6 +17,6 @@ Permanent Inria employees may register for free and attend the conference dinner
 
 If you have specific dietary requirements, please register for the dinner by Wednesday 12 July. The restaurant needs time to prepare, so we cannot guarantee that specific dietary requirements made after that date will be respected.
 
-**We have restricted registrations for the time being, due to a large number of registrations and room size limitations.** If you would like to attend, please write an email to Vladimir Zamdzhiev `first.last@inria.fr` and Benoît Valiron `first.last@universite-paris-saclay.fr`.
+**We have restricted registrations for the time being, due to a large number of registrations and room size limitations.** If you would like to attend, please write an email to Vladimir Zamdzhiev `first.last@inria.fr` and Benoît Valiron `first.last@universite-paris-saclay.fr`. We will then decide whether to accept your request or not.
 
 Please contact the organisers if you have any questions.
