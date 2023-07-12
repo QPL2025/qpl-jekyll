@@ -163,7 +163,7 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 ##### 10:30 -- 12:00 Parallel Session 1
 * Room *Hermite*: **Causality.** Session chair: Vilasini Venkatesh.
   * Eleftherios Tselentis and Ämin Baumeler. **Admissible Causal Structures and Correlations.**
-  * Stefano Gogioso and Nicola Pinzani. **The Topology of Causality.**
+  * Stefano Gogioso and Nicola Pinzani. **The Topology of Causality.** Remote Presentation.
   * Ravi Kunjwal and Ämin Baumeler. **Trading causal order for locality.** Remote Presentation.
 * Room *Darboux*: **Categories.** Session chair: Peter Selinger.
   * Jean-Simon Lemay and Robin Cockett. **Moore-Penrose Dagger Categories.**
@@ -187,10 +187,30 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 * Room *Cafeteria.*
   * Charles Yuan and Michael Carbin. **Tower: Data Structures in Quantum Superposition.**
   * Ahmet Çevik and Zeki Seskir. **On the Cardinality of Future Worldlines in Discrete Spacetime Structures.**
-  * "Laurens Walleghem, Rui Soares Barbosa, Matthew Pusey and Stefan Weigert". **A hybrid Bell-FR paradox and the measurement postulate.**
+  * Laurens Walleghem, Rui Soares Barbosa, Matthew Pusey and Stefan Weigert. **A hybrid Bell-FR paradox and the measurement postulate.**
+  * Daphne Wang and Mehrnoosh Sadrzadeh. **Variational Circuits for Meanings Prediction.**
+  * Rafael Wagner and Ernesto Galvao. **Anomalous weak values require coherence.**
+  * Lukas Schmitt and V. Vilasini. **Operational causality and realisable processes in the Page-Wootters framework.**
+  * Korbinian Staudacher and Dieter Kranzlmüller. **On circuit extraction from MBQC patterns with Pauli flow.**
+  * Jun-Yi Wu, Kosuke Matsui, Tim Forrer, Akihito Soeda, Pablo Andrés-Martínez, Daniel Mills, Luciana Henaut and Mio Murao. **Entanglement-efficient bipartite-distributed quantum computing with entanglement-assisted packing processes.**
+  * Lorenzo Perticone and Robin Adams. **Effect Algebras as Omega-Categories.**
+  * Mark Koch, Richie Yeung and Quanlong Wang. **Speedy Contraction of ZX Diagrams with Triangles via Stabiliser Decompositions.**
+  * Pierre-Emmanuel Emeriau, Kim Vallée, Shane Mansfield, Damian Markham, Boris Bourdoncle and Adel Sohbi. **Corrected Bell and Noncontextuality Inequalities for Realistic Experiments.**
+  * Tiffany Duneau and Bob Coecke. **Revisiting Complementarity of Spiders.**
 ##### 17:00 -- 18:00 Poster Session 2
 * Room *Cafeteria.*
   * Angelos Bampounis and Rui Soares Barbosa. **Matchgate hierarchy: A Clifford-like hierarchy for matchgate circuits.**
+  * Timothée Hoffreumon and Ognyan Oreshkov. **Projective characterization of higher-order quantum transformations.**
+  * Nicolás Medina Sánchez. **Relational clocks using monads.**
+  * Alejandro Villoria, Henning Basold and Alfons Laarman. **A graphical notation of convex sums of unitaries for the ZX-calculus.**
+  * Marc-Olivier Proulx, Anne Broadbent and Pierre Botteron. **Extending the Known Region of Nonlocal Boxes that Collapse Communication Complexity.**
+  * Maarten Grothus and V. Vilasini. **Compatibility of Cyclic Causal Structures with Spacetime in General Theories with Free Interventions.**
+  * Richard Howl, Ali Akil, Hlér Kristjánsson, Xiaobin Zhao and Giulio Chiribella. **Quantum gravity as a communication resource.**
+  * Tim Forrer, Matt Wilson and Mio Murao. **Reduction to a Subsystem Always Internalises.**
+  * Nicklas Botö and Fabian Forslund. **The Zeta Calculus.**
+  * Andreas Bluhm, Ion Nechita and Simon Schmidt. **Polytope compatibility - from quantum measurements to magic squares.**
+  * Marco Erba, Paolo Perinotti, Alessandro Tosini and Davide Rolino. **Disentangling Bohr and Heisenberg: complementarity is a stronger feature than disturbance.**
+  * Hippolyte Dourdent, Alastair Abbott, Ivan Supic and Cyril Branciard. **Network-Device-Independent Certification of Causal Nonseparability.**
 
 ## Tuesday
 
@@ -224,9 +244,21 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 ##### 15:30 -- 16:00 Break
 ##### 16:00 -- 17:00 Poster Session 3
 * Room *Cafeteria.*
+  * Rui Soares Barbosa, Aziz Kharoof and Cihan Okay. **A bundle perspective on contextuality: Empirical models and simplicial distributions on bundle scenarios.**
   * Victor Gitton and Mischa Woods. **On the system loophole of generalized noncontextuality.**
+  * Nicolò Cangiotti and Alessandro Linzi. **On the deep connection between hyperstructures and quantum logic.**
+  * Raman Choudhary and Rui Soares Barbosa. **Contextuality with Pauli observables in cycle scenarios.**
+  * Raphaël Mothe, Alastair Abbott and Cyril Branciard. **Formalizing the notion of dynamical causal order for quantum circuits with quantum control.**
+  * Carla Ferradini, Victor Gitton, Giulia Mazzola and V. Vilasini. **Tensor network techniques for quantum causal structures and holography.**
 ##### 17:00 -- 18:00 Poster Session 4
 * Room *Cafeteria.*
+  * Tomoaki Kawano. **Abstract Model and Deduction System for Dynamic Epistemic Quantum Logic.**
+  * Luca Mondada and Pablo Andrés-Martínez. **Fast Pattern Matching for Diagram Rewriting.**
+  * Amy Searle, Rui Soares Barbosa and Samson Abramsky. **Temporal correlations with bounded lookback memory in the sheaf-theoretic framework.**
+  * Alejandro Díaz-Caro, Emmanuel Hainry, Romain Péchoux and Mário Silva. **Light types and polynomial time for quantum lambda-calculi.**
+  * Vitor Fernandes, Renato Neves and Luís Soares Barbosa. **Towards Quantum Concurrency.**
+  * Michael Zurel, Cihan Okay and Robert Raussendorf. **Simulating quantum computation with magic states - How many bits for it?.**
+  * Christopher Langrenez, Stephan De Bièvre and David Arvidsson-Shukur. **Characterizing the Kirkwood-Dirac (non)classical states.**
 
 ## Wednesday
 
@@ -242,8 +274,8 @@ Lunches are *not* provided by the conference organisers. There are many restaura
   * Kin Ian Lo, Mehrnoosh Sadrzadeh and Shane Mansfield. **Generalised Winograd Schema and its Contextuality.**
   * Lorenzo Catani, Ricardo Faleiro, Pierre-Emmanuel Emeriau, Shane Mansfield and Anna Pappa. **Connecting XOR and XOR\* games.**
 * Room *Darboux*: **Uncertainy and Thermodynamics.** Session chair: Mio Murao.
-  * Yunlong Xiao, Yuxiang Yang, Ximing Wang, Qing Liu and Mile Gu. **Quantum Uncertainty Principles for Measurements with Interventions.**
-  * Yunlong Xiao, Gaurav Saxena, Ryuji Takagi, Sarvagya Upadhyay and Mile Gu. **The Dynamical Uncertainty Principle Determines the Programmability of Quantum Processors.**
+  * Yunlong Xiao, Yuxiang Yang, Ximing Wang, Qing Liu and Mile Gu. **Quantum Uncertainty Principles for Measurements with Interventions.** Remote Presentation.
+  * Yunlong Xiao, Gaurav Saxena, Ryuji Takagi, Sarvagya Upadhyay and Mile Gu. **The Dynamical Uncertainty Principle Determines the Programmability of Quantum Processors.** Remote Presentation.
   * Thomas Theurer, Elia Zanoni, Carlo Maria Scandolo and Gilad Gour. **Thermodynamic state convertibility is determined by qubit cooling and heating.**
 
 ##### 12:00 -- 14:00 **Lunch**
@@ -317,7 +349,7 @@ The dinner will be vegetarian with vegan options available upon request.
   * Cole Comfort. **The Algebra of Stabilizer Codes.**
   * Jiaxin Huang, Sarah Meng Li, Lia Yeh, Aleks Kissinger, Michele Mosca and Michael Vasmer. **Graphical CSS Code Transformation Using ZX Calculus.**
 * Room *Darboux*: **Information and Disturbance.** Session chair: Ravi Kunjwal.
-  * Gilad Gour, Mark Wilde, Sam Brandsen and Isabelle Geng. **Inevitability of knowing less than nothing.**
+  * Gilad Gour, Mark Wilde, Sam Brandsen and Isabelle Geng. **Inevitability of knowing less than nothing.** Remote Presentation.
   * Leevi Leppäjärvi and Michal Sedlák. **Incompatibility of quantum instruments.**
   * Leonardo Vaglini, Alessandro Tosini and Paolo Perinotti. **Information content of a source in post-quantum theories.**
 
@@ -337,6 +369,7 @@ The dinner will be vegetarian with vegan options available upon request.
   * Felix Zilk, Korbinian Staudacher, Tobias Guggemos, Karl Fürlinger, Dieter Kranzlmüller and Philip Walther. **A compiler for universal photonic quantum computers.**
   * Shinichi Sunami and Masato Fukushima. **Graphix: Bridging Quantum Algorithms and Measurement Patterns.**
   * Seyon Sivarajah, Lukas Heidemann, Alan Lawrence and Ross Duncan. **Tierkreis: a Dataflow Framework for Hybrid Quantum-Classical Computing.**
+  * Arianne Meijer-van de Griend. **Towards a generic transpilation approach for quantum circuits through re-synthesis.**
   * Vincent Russo, Andrea Mari, Nathan Shammah, Ryan LaRose and William J. Zeng. **Testing platform-independent quantum error mitigation on noisy quantum computers.**
   * Razin A. Shaikh, Jonathon Liu, Benjamin Rodatz, Richie Yeung and Bob Coecke. **Automated Derivation of Text Structure as Circuits.**
   * Cameron Foreman, Richie Yeung, Alec Edgington and Florian Curchod. **cryptomite: A versatile, simple to use library of randomness extractors.**
