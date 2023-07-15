@@ -310,7 +310,7 @@ Lunches are *not* provided by the conference organisers. There are many restaura
   * Rafael Wagner, Rui Soares Barbosa and Ernesto F. Galvão. **Inequalities witnessing coherence, nonlocality, and contextuality.**
 * Room *Darboux*: **Entanglement.** Session chair: Stefano Gogioso.
   * Anita Buckley and Klemen Sivic. **New entanglement witnesses and entangled states.**
-  * Anindita Bera, Giovanni Scala, Gniewkomir Sarbicki and Dariusz Chruściński. **Generalizing Choi map in $M_3$ beyond circulant scenario.**
+  * Anindita Bera, Giovanni Scala, Gniewkomir Sarbicki and Dariusz Chruściński. **Generalizing Choi map in M_3 beyond circulant scenario.**
   * Seungbeom Chin, Yong-Su Kim, Marcin Karczewski and Sangmin Lee. **Graph approach to generate multipartite entanglement with linear quantum networks.**
 
 ##### 12:00 -- 14:00 **Lunch**
