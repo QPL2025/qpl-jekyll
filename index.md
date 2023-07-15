@@ -108,7 +108,6 @@ The dinner will be vegetarian with vegan options available upon request.
 Lunches are *not* provided by the conference organisers. There are many restaurants and food options close to the conference venue.
 
 ### Diamond Sponsor
-
 ![Quandela](images/quandela.svg)
 
 ### Gold Sponsor

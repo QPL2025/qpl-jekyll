@@ -2,7 +2,7 @@
 title: Accepted Submissions
 ---
 
-The following submissions to QPL 2023 have been accepted to appear in the proceedings or to be presented as a talk during the conference.  Software tool demos and posters will be announced later. 
+The following submissions to QPL 2023 have been accepted to appear in the proceedings or to be presented during the conference.
 
 ### Accepted Proceedings Submissions
 
@@ -77,3 +77,40 @@ The following submissions to QPL 2023 have been accepted to appear in the procee
 * Alexandre Clément, Noé Delorme, Simon Perdrix and Renaud Vilmart. **Simple Complete Equational Theories for Quantum Circuits with Ancillae or Partial Trace.**
 * Nuriya Nurgalieva, Ralph Silva and Renato Renner. **Reconstructing the waiting time of a clock using the simplest possible reference.**
 * Leevi Leppäjärvi and Michal Sedlák. **Incompatibility of quantum instruments.**
+
+### Accepted for Poster Presentation
+
+* Charles Yuan and Michael Carbin. **Tower: Data Structures in Quantum Superposition.**
+* Ahmet Çevik and Zeki Seskir. **On the Cardinality of Future Worldlines in Discrete Spacetime Structures.**
+* Laurens Walleghem, Rui Soares Barbosa, Matthew Pusey and Stefan Weigert. **A hybrid Bell-FR paradox and the measurement postulate.**
+* Daphne Wang and Mehrnoosh Sadrzadeh. **Variational Circuits for Meanings Prediction.**
+* Rafael Wagner and Ernesto Galvao. **Anomalous weak values require coherence.**
+* Lukas Schmitt and V. Vilasini. **Operational causality and realisable processes in the Page-Wootters framework.**
+* Korbinian Staudacher and Dieter Kranzlmüller. **On circuit extraction from MBQC patterns with Pauli flow.**
+* Jun-Yi Wu, Kosuke Matsui, Tim Forrer, Akihito Soeda, Pablo Andrés-Martínez, Daniel Mills, Luciana Henaut and Mio Murao. **Entanglement-efficient bipartite-distributed quantum computing with entanglement-assisted packing processes.**
+* Lorenzo Perticone and Robin Adams. **Effect Algebras as Omega-Categories.**
+* Mark Koch, Richie Yeung and Quanlong Wang. **Speedy Contraction of ZX Diagrams with Triangles via Stabiliser Decompositions.**
+* Pierre-Emmanuel Emeriau, Kim Vallée, Shane Mansfield, Damian Markham, Boris Bourdoncle and Adel Sohbi. **Corrected Bell and Noncontextuality Inequalities for Realistic Experiments.**
+* Tiffany Duneau and Bob Coecke. **Revisiting Complementarity of Spiders.**
+* Angelos Bampounis and Rui Soares Barbosa. **Matchgate hierarchy: A Clifford-like hierarchy for matchgate circuits.**
+* Timothée Hoffreumon and Ognyan Oreshkov. **Projective characterization of higher-order quantum transformations.**
+* Nicolás Medina Sánchez. **Relational clocks using monads.**
+* Alejandro Villoria, Henning Basold and Alfons Laarman. **A graphical notation of convex sums of unitaries for the ZX-calculus.**
+* Marc-Olivier Proulx, Anne Broadbent and Pierre Botteron. **Extending the Known Region of Nonlocal Boxes that Collapse Communication Complexity.**
+* Maarten Grothus and V. Vilasini. **Compatibility of Cyclic Causal Structures with Spacetime in General Theories with Free Interventions.**
+* Richard Howl, Ali Akil, Hlér Kristjánsson, Xiaobin Zhao and Giulio Chiribella. **Quantum gravity as a communication resource.**
+* Tim Forrer, Matt Wilson and Mio Murao. **Reduction to a Subsystem Always Internalises.**
+* Nicklas Botö and Fabian Forslund. **The Zeta Calculus.**
+* Andreas Bluhm, Ion Nechita and Simon Schmidt. **Polytope compatibility - from quantum measurements to magic squares.**
+* Marco Erba, Paolo Perinotti, Alessandro Tosini and Davide Rolino. **Disentangling Bohr and Heisenberg: complementarity is a stronger feature than disturbance.**
+* Hippolyte Dourdent, Alastair Abbott, Ivan Supic and Cyril Branciard. **Network-Device-Independent Certification of Causal Nonseparability.**
+
+### Accepted for Software Presentation
+
+* Felix Zilk, Korbinian Staudacher, Tobias Guggemos, Karl Fürlinger, Dieter Kranzlmüller and Philip Walther. **A compiler for universal photonic quantum computers.**
+* Shinichi Sunami and Masato Fukushima. **Graphix: Bridging Quantum Algorithms and Measurement Patterns.**
+* Seyon Sivarajah, Lukas Heidemann, Alan Lawrence and Ross Duncan. **Tierkreis: a Dataflow Framework for Hybrid Quantum-Classical Computing.**
+* Arianne Meijer-van de Griend. **Towards a generic transpilation approach for quantum circuits through re-synthesis.**
+* Vincent Russo, Andrea Mari, Nathan Shammah, Ryan LaRose and William J. Zeng. **Testing platform-independent quantum error mitigation on noisy quantum computers.**
+* Razin A. Shaikh, Jonathon Liu, Benjamin Rodatz, Richie Yeung and Bob Coecke. **Automated Derivation of Text Structure as Circuits.**
+* Cameron Foreman, Richie Yeung, Alec Edgington and Florian Curchod. **cryptomite: A versatile, simple to use library of randomness extractors.**

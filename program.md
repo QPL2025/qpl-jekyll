@@ -378,7 +378,6 @@ The dinner will be vegetarian with vegan options available upon request.
   * Discussion about QPL organisation
 
 ### Diamond Sponsor
-
 ![Quandela](/images/quandela.svg)
 
 ### Gold Sponsor
