@@ -106,18 +106,18 @@ The conference will take place at [Institut Henri Poincaré](https://www.ihp.fr/
     <td>Break</td>
     <td rowspan="2" style="background-color: #f2f2f2"><a href="#1530--1700-software-session">Software Session</a></td>
   </tr>
-  <tr style="background-color: #f2f2f2">
-    <td>16:00 - 17:00</td>
-    <td><a href="#1600--1700-poster-session-1">Poster Session 1</a></td>
-    <td><a href="#1600--1700-poster-session-3">Poster Session 3</a></td>
-    <td><a href="#1600--1700-poster-session-5">Poster Session 5</a></td>
-    <td><a href="#1600--1700-industry-session">Industry Session</a></td>
+  <tr>
+    <td style="background-color: #f2f2f2">16:00 - 17:00</td>
+    <td style="background-color: #f2f2f2"><a href="#1600--1700-poster-session-1">Poster Session 1</a></td>
+    <td style="background-color: #f2f2f2"><a href="#1600--1700-poster-session-3">Poster Session 3</a></td>
+    <td></td>
+    <td style="background-color: #f2f2f2"><a href="#1600--1700-industry-session">Industry Session</a></td>
   </tr>
   <tr>
     <td style="background-color: #f2f2f2">17:00 - 18:00</td>
     <td style="background-color: #f2f2f2"><a href="#1700--1800-poster-session-2">Poster Session 2</a></td>
     <td style="background-color: #f2f2f2"><a href="#1700--1800-poster-session-4">Poster Session 4</a></td>
-    <td style="background-color: #f2f2f2"><a href="#1700--1800-poster-session-6">Poster Session 6</a></td>
+    <td></td>
     <td></td>
     <td style="background-color: #f2f2f2"><a href="#1700--1800-qpl-general-meeting">QPL General Meeting</a></td>
   </tr>
@@ -220,7 +220,7 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 
 ##### 10:00 -- 10:30 **Break**
 ##### 10:30 -- 12:00 Parallel Session 3
-* Room *Hermite*: **Diagrammatic Calculi and Complexity.** Session chair: ???
+* Room *Hermite*: **Diagrammatic Calculi and Complexity.** Session chair: Marc de Visme.
   * Piotr Mitosek. **Constructing NP^#P-complete problems and #P-hardness of circuit extraction in phase-free ZH.**
   * Tuomas Laakkonen, Konstantinos Meichanetzidis and John van de Wetering. **Picturing counting reductions with the ZH-calculus.**
   * Titouan Carette, Etienne Moutot, Thomas Perez and Renaud Vilmart. **Counting perfect matchings with the planar fragment of ZW-Calculus.**
@@ -234,8 +234,8 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 ##### 14:00 -- 15:30 Parallel Session 4
 * Room *Hermite*: **Generalised Probabilistic Theories.** Session chair: Lorenzo Catani.
   * Paulo Cavalcanti, John Selby and Ana Belen Sainz. **Every no-signalling channel is common-cause realizable.**
-  * Gerd Niestegge. **Quantum transition probability and convex sets.**
   * Martin Plávala and Matthias Kleinmann. **Generalized dynamical theories in phase space and the hydrogen atom.**
+  * Gerd Niestegge. **Quantum transition probability and convex sets.** *Talk cancelled.*
 * Room *Darboux*: **(De)compositional Aspects.** Session chair: Emmanuel Jeandel.
   * Jacques Carette, Chris Heunen, Robin Kaarsgaard and Amr Sabry. **The Quantum Effect: a recipe for QuantumPi.**
   * Pablo Arrighi, Amélia Durbec and Matt Wilson. **Generalized tensors and partial traces over quantum networks.**
@@ -247,9 +247,9 @@ Lunches are *not* provided by the conference organisers. There are many restaura
   * Rui Soares Barbosa, Aziz Kharoof and Cihan Okay. **A bundle perspective on contextuality: Empirical models and simplicial distributions on bundle scenarios.**
   * Victor Gitton and Mischa Woods. **On the system loophole of generalized noncontextuality.**
   * Nicolò Cangiotti and Alessandro Linzi. **On the deep connection between hyperstructures and quantum logic.**
-  * Raman Choudhary and Rui Soares Barbosa. **Contextuality with Pauli observables in cycle scenarios.**
   * Raphaël Mothe, Alastair Abbott and Cyril Branciard. **Formalizing the notion of dynamical causal order for quantum circuits with quantum control.**
   * Carla Ferradini, Victor Gitton, Giulia Mazzola and V. Vilasini. **Tensor network techniques for quantum causal structures and holography.**
+  * Kostia Chardonnet, Marc de Visme, Renaud Vilmart and Benoît Valiron. **The Many-Worlds Calculus..**
 ##### 17:00 -- 18:00 Poster Session 4
 * Room *Cafeteria.*
   * Tomoaki Kawano. **Abstract Model and Deduction System for Dynamic Epistemic Quantum Logic.**
@@ -258,6 +258,7 @@ Lunches are *not* provided by the conference organisers. There are many restaura
   * Alejandro Díaz-Caro, Emmanuel Hainry, Romain Péchoux and Mário Silva. **Light types and polynomial time for quantum lambda-calculi.**
   * Vitor Fernandes, Renato Neves and Luís Soares Barbosa. **Towards Quantum Concurrency.**
   * Michael Zurel, Cihan Okay and Robert Raussendorf. **Simulating quantum computation with magic states - How many bits for it?.**
+  * Raman Choudhary and Rui Soares Barbosa. **Contextuality with Pauli observables in cycle scenarios.**
   * Christopher Langrenez, Stephan De Bièvre and David Arvidsson-Shukur. **Characterizing the Kirkwood-Dirac (non)classical states.**
 
 ## Wednesday
@@ -281,18 +282,16 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 ##### 12:00 -- 14:00 **Lunch**
 
 ##### 14:00 -- 15:30 Parallel Session 6
-* Room *Hermite*: **Circuits and Rewriting.** Session chair: Renaud Vilmart.
+* Room *Hermite*: **Circuits and Rewriting.** Session chair: Konstantinos Meichanetzidis.
   * Matthew Amy. **Complete equational theories for the sum-over-paths with unbalanced amplitudes.**
   * Xiaoning Bian and Peter Selinger. **Generators and relations for 3-qubit Clifford+CS operators.**
   * Vivien Vandaele, Simon Martiel, Simon Perdrix and Christophe Vuillot. **Optimal Hadamard gate count for Clifford+T synthesis of Pauli rotations sequences.**
-* Room *Darboux*: **Foundations.** Session chair: ???
+* Room *Darboux*: **Foundations.** Session chair: Matthew Wilson.
   * Sebastian Horvat and Iulian Danut Toader. **Quantum logic and meaning.**
   * Howard Barnum, Matthew Graydon and Alexander Wilce. **Locally Tomographic Shadows.**
   * Nick Ormrod, V. Vilasini and Jonathan Barrett. **Which theories have a measurement problem?**
 
 ##### 15:30 -- 16:00 Break
-##### 16:00 -- 17:00 Poster Session 5
-##### 17:00 -- 18:00 Poster Session 6
 
 ## Thursday
 
@@ -303,11 +302,11 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 
 ##### 10:00 -- 10:30 **Break**
 ##### 10:30 -- 12:00 Parallel Session 7
-* Room *Hermite*: **Contextuality.** Session chair: ???
+* Room *Hermite*: **Contextuality.** Session chair: Pierre-Emmanuel Emeriau.
   * Nuriya Nurgalieva and V. Vilasini. **Multi-agent logical paradoxes and contextuality.**
   * Vinicius P. Rossi, David Schmid, John H. Selby and Ana Belén Sainz. **Contextuality with vanishing coherence and maximal robustness to dephasing.**
   * Rafael Wagner, Rui Soares Barbosa and Ernesto F. Galvão. **Inequalities witnessing coherence, nonlocality, and contextuality.**
-* Room *Darboux*: **Entanglement.** Session chair: ???
+* Room *Darboux*: **Entanglement.** Session chair: Stefano Gogioso.
   * Anita Buckley and Klemen Sivic. **New entanglement witnesses and entangled states.**
   * Anindita Bera, Giovanni Scala, Gniewkomir Sarbicki and Dariusz Chruściński. **Generalizing Choi map in $M_3$ beyond circulant scenario.**
   * Seungbeom Chin, Yong-Su Kim, Marcin Karczewski and Sangmin Lee. **Graph approach to generate multipartite entanglement with linear quantum networks.**
@@ -344,7 +343,7 @@ The dinner will be vegetarian with vegan options available upon request.
 
 ##### 10:00 -- 10:30 **Break**
 ##### 10:30 -- 12:00 Parallel Session 9
-* Room *Hermite*: **Error-correction.** Session chair: ???
+* Room *Hermite*: **Error-correction.** Session chair: Renaud Vilmart.
   * Alex Townsend-Teague, Julio Magdalena de la Fuente and Markus Kesselring. **Re-Implementing Stabilizer Codes as Floquet Codes.**
   * Cole Comfort. **The Algebra of Stabilizer Codes.**
   * Jiaxin Huang, Sarah Meng Li, Lia Yeh, Aleks Kissinger, Michele Mosca and Michael Vasmer. **Graphical CSS Code Transformation Using ZX Calculus.**
@@ -385,6 +384,8 @@ The dinner will be vegetarian with vegan options available upon request.
 ### Gold Sponsor
 ![Quantinuum](/images/quantinuum.svg)
 
+### Silver Sponsor
+![University of Chicago](images/uchicago.svg)
 
 ### Organisational Support and Funding
 ![Inria](/images/inria.svg)
