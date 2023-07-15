@@ -147,6 +147,8 @@ Hint: the table above has clickable entries that serve as shortcuts to more deta
 
 The duration of talks in plenary sessions and parallel sessions are 30 minutes (including approximately 5 minutes for questions) each. The only exception is the talk in [Plenary Session 2](https://qpl2023.github.io/program/#0900--1000-plenary-session-2) because it merges two submissions made by the same authors.
 
+Streaming from room Hermite (capacity 150) to room Darboux (capacity 50) is available and will be used when necessary, e.g. during plenary sessions.
+
 Lunches are *not* provided by the conference organisers. There are many restaurants and food options close to the conference venue.
 
 ## Monday
