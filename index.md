@@ -63,11 +63,9 @@ Registration is now open. More information is available [here](/registration/).
 ### Presentations
 
 Authors of accepted proceedings and non-proceedings submissions will be invited
-to give a long or short talk, depending on the quality and maturity of the
-submission. Authors of accepted poster submissions will be invited to present
+to give a talk. Authors of accepted poster submissions will be invited to present
 their work at the poster session. Authors of accepted programming tool
-submissions will be invited to live demo their tool to conference attendees, at
-the same time as the poster session.
+submissions will be invited to live demo their tool to conference attendees.
 
 The conference program is available [here](/program).
 
