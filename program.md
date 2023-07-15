@@ -384,7 +384,7 @@ The dinner will be vegetarian with vegan options available upon request.
 ![Quantinuum](/images/quantinuum.svg)
 
 ### Silver Sponsor
-![University of Chicago](images/uchicago.svg)
+![University of Chicago](/images/uchicago.svg)
 
 ### Organisational Support and Funding
 ![Inria](/images/inria.svg)
