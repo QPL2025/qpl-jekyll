@@ -169,8 +169,8 @@ Lunches are *not* provided by the conference organisers. There are many restaura
   * Ravi Kunjwal and Ämin Baumeler. **Trading causal order for locality.** Remote Presentation.
 * Room *Darboux*: **Categories.** Session chair: Peter Selinger.
   * Jean-Simon Lemay and Robin Cockett. **Moore-Penrose Dagger Categories.**
-  * Gejza Jenča and Bert Lindenhovius. **Quantum suplattices.**
-  * Matthew Wilson and Giulio Chiribella. **Polycategories of Supermaps on Monoidal Categories.**
+  * Gejza Jenča and Bert Lindenhovius. **Quantum suplattices.** [[slides]](/slides/bert.pdf)
+  * Matthew Wilson and Giulio Chiribella. **Polycategories of Supermaps on Monoidal Categories.** [[slides]](/slides/wilson.pdf)
 
 ##### 12:00 -- 14:00 **Lunch**
 
