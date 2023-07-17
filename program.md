@@ -154,12 +154,12 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 ## Monday
 
 ##### 08:45 -- 09:00 **Opening Remarks**
-* Room *Hermite*.
+* Room *Hermite*. [[slides]](/slides/opening.pdf)
 
 ##### 09:00 -- 10:00 **Plenary Session 1**
 * Room *Hermite*. Session chair: Shane Mansfield.
-  * V. Vilasini and Roger Colbeck. **Causal inference in non-classical theories and compatibility with spacetime structure.**
-  * Howard Barnum, Cozmin Ududec and John van de Wetering. **Self-duality and Jordan structure of quantum theory follow from homogeneity and pure transitivity.**
+  * V. Vilasini and Roger Colbeck. **Causal inference in non-classical theories and compatibility with spacetime structure.** [[slides]](/slides/vilasini-plenary.pdf)
+  * Howard Barnum, Cozmin Ududec and John van de Wetering. **Self-duality and Jordan structure of quantum theory follow from homogeneity and pure transitivity.** [[slides]](/slides/john.pdf)
 
 ##### 10:00 -- 10:30 **Break**
 ##### 10:30 -- 12:00 Parallel Session 1
