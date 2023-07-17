@@ -190,6 +190,27 @@ Feel free to email Vladimir Zamdzhiev `{first.last at inria dot fr}` with any qu
 
 An archive of all previous QPL editions is [available](https://www.mathstat.dal.ca/~selinger/qpl/).
 
+### Code of Conduct
+
+Please make this conference a welcoming space for everyone. We ask you to use your real name when logging into any of our systems. Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or scientific opinion. We do not tolerate harassment of community members in any form.
+
+All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any venue this conference will be held in, whether physical or virtual. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. If a participant engages in harassing behaviour, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference.
+
+The dedicated safety and inclusion team will oversee reports of Code of Conduct violation. The team can be contacted at qpl.safety.inclusion@gmail.com , and its members are:
+
+* Shane Mansfield (Quandela)
+* Ana Belén Sainz (ICTQT, University of Gdańsk)
+
+Harassment may include but is not limited to:
+
+* Offensive comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or technology choices;
+* Sexual language and images in any workshop platform;
+* Deliberate intimidation, stalking, or following;
+* Harassing photography or recording;
+* Sustained disruption of talks or other events;
+* Inappropriate sexual attention;
+* Advocating for, or encouraging, any of the above behaviour.
+
 ###### Copyright
 
 The original image of the Louvre Museum ("La cour Napoléon du Musée du Louvre,

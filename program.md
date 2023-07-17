@@ -176,8 +176,8 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 
 ##### 14:00 -- 15:30 Parallel Session 2
 * Room *Hermite*: **Circuits.** Session chair: Neil Ross.
-  * Ewan Murphy and Aleks Kissinger. **Global synthesis of CNOT circuits with holes.**
-  * Julien Codsi and John van de Wetering. **Classically Simulating Quantum Supremacy IQP Circuits through a Random Graph Approach.**
+  * Ewan Murphy and Aleks Kissinger. **Global synthesis of CNOT circuits with holes.** [[slides]](/slides/murphy.pdf)
+  * Julien Codsi and John van de Wetering. **Classically Simulating Quantum Supremacy IQP Circuits through a Random Graph Approach.** [[slides]](/slides/codsi.pdf)
   * Timothée Goubault de Brugière and Simon Martiel. **Shallower CNOT circuits on realistic quantum hardware.**
 * Room *Darboux*: **Higher-order Transformations.** Session chair: Augustin Vanrietvelde.
   * Ravi Kunjwal and Ognyan Oreshkov. **Nonclassicality in correlations without causal order.** Remote Presentation.
