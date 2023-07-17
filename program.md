@@ -164,7 +164,7 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 ##### 10:00 -- 10:30 **Break**
 ##### 10:30 -- 12:00 Parallel Session 1
 * Room *Hermite*: **Causality.** Session chair: Vilasini Venkatesh.
-  * Eleftherios Tselentis and Ämin Baumeler. **Admissible Causal Structures and Correlations.**
+  * Eleftherios Tselentis and Ämin Baumeler. **Admissible Causal Structures and Correlations.** [[slides]](/slides/tselentis.pdf)
   * Stefano Gogioso and Nicola Pinzani. **The Topology of Causality.** Remote Presentation.
   * Ravi Kunjwal and Ämin Baumeler. **Trading causal order for locality.** Remote Presentation.
 * Room *Darboux*: **Categories.** Session chair: Peter Selinger.
