@@ -228,8 +228,8 @@ Lunches are *not* provided by the conference organisers. There are many restaura
   * Titouan Carette, Etienne Moutot, Thomas Perez and Renaud Vilmart. **Counting perfect matchings with the planar fragment of ZW-Calculus.**
 * Room *Darboux*: **Foundations.** Session chair: Ognyan Oreshkov.
   * David Schmid. **Macrorealism as strict classicality in the framework of generalized probabilistic theories (and how to falsify it).** [[slides]](/slides/schmid.pdf)
-  * Lorenzo Giannelli, Carlo Maria Scandolo and Giulio Chiribella. **Indeterminism and Bell nonlocality with classical systems.**
-  * V. Vilasini and Mischa Woods. **A general quantum circuit framework for consistent logical reasoning in Wigner’s friend scenarios.**
+  * Lorenzo Giannelli, Carlo Maria Scandolo and Giulio Chiribella. **Indeterminism and Bell nonlocality with classical systems.** [[slides]](/slides/giannelli.pdf)
+  * V. Vilasini and Mischa Woods. **A general quantum circuit framework for consistent logical reasoning in Wigner’s friend scenarios.** [[slides]](/slides/vilasini.pdf)
 
 ##### 12:00 -- 14:00 **Lunch**
 
