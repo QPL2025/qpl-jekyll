@@ -218,7 +218,7 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 
 ##### 09:00 -- 10:00 **Plenary Session 2**
 * Room *Hermite*. Session chair: Carlo Maria Scandolo.
-  * Lorenzo Catani, Matthew Leifer, Giovanni Scala, David Schmid and Robert Spekkens. **What is nonclassical about uncertainty relations?** together with **What aspects of the phenomenology of interference witness nonclassicality?**
+  * Lorenzo Catani, Matthew Leifer, Giovanni Scala, David Schmid and Robert Spekkens. **What is nonclassical about uncertainty relations?** together with **What aspects of the phenomenology of interference witness nonclassicality?** [[slides]](/slides/catani.pptx)
 
 ##### 10:00 -- 10:30 **Break**
 ##### 10:30 -- 12:00 Parallel Session 3
