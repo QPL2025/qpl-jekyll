@@ -227,7 +227,7 @@ Lunches are *not* provided by the conference organisers. There are many restaura
   * Tuomas Laakkonen, Konstantinos Meichanetzidis and John van de Wetering. **Picturing counting reductions with the ZH-calculus.**
   * Titouan Carette, Etienne Moutot, Thomas Perez and Renaud Vilmart. **Counting perfect matchings with the planar fragment of ZW-Calculus.**
 * Room *Darboux*: **Foundations.** Session chair: Ognyan Oreshkov.
-  * David Schmid. **Macrorealism as strict classicality in the framework of generalized probabilistic theories (and how to falsify it).**
+  * David Schmid. **Macrorealism as strict classicality in the framework of generalized probabilistic theories (and how to falsify it).** [[slides]](/slides/schmid.pdf)
   * Lorenzo Giannelli, Carlo Maria Scandolo and Giulio Chiribella. **Indeterminism and Bell nonlocality with classical systems.**
   * V. Vilasini and Mischa Woods. **A general quantum circuit framework for consistent logical reasoning in Wigner’s friend scenarios.**
 
