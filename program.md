@@ -223,9 +223,9 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 ##### 10:00 -- 10:30 **Break**
 ##### 10:30 -- 12:00 Parallel Session 3
 * Room *Hermite*: **Diagrammatic Calculi and Complexity.** Session chair: Marc de Visme.
-  * Piotr Mitosek. **Constructing NP^#P-complete problems and #P-hardness of circuit extraction in phase-free ZH.**
+  * Piotr Mitosek. **Constructing NP^#P-complete problems and #P-hardness of circuit extraction in phase-free ZH.** [[slides]](/slides/mitosek.pdf)
   * Tuomas Laakkonen, Konstantinos Meichanetzidis and John van de Wetering. **Picturing counting reductions with the ZH-calculus.**
-  * Titouan Carette, Etienne Moutot, Thomas Perez and Renaud Vilmart. **Counting perfect matchings with the planar fragment of ZW-Calculus.**
+  * Titouan Carette, Etienne Moutot, Thomas Perez and Renaud Vilmart. **Counting perfect matchings with the planar fragment of ZW-Calculus.** [[slides]](/slides/perez.pdf)
 * Room *Darboux*: **Foundations.** Session chair: Ognyan Oreshkov.
   * David Schmid. **Macrorealism as strict classicality in the framework of generalized probabilistic theories (and how to falsify it).** [[slides]](/slides/schmid.pdf)
   * Lorenzo Giannelli, Carlo Maria Scandolo and Giulio Chiribella. **Indeterminism and Bell nonlocality with classical systems.** [[slides]](/slides/giannelli.pdf)
