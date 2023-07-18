@@ -239,9 +239,9 @@ Lunches are *not* provided by the conference organisers. There are many restaura
   * Martin Plávala and Matthias Kleinmann. **Generalized dynamical theories in phase space and the hydrogen atom.**
   * Gerd Niestegge. **Quantum transition probability and convex sets.** *Talk cancelled.*
 * Room *Darboux*: **(De)compositional Aspects.** Session chair: Emmanuel Jeandel.
-  * Jacques Carette, Chris Heunen, Robin Kaarsgaard and Amr Sabry. **The Quantum Effect: a recipe for QuantumPi.**
+  * Jacques Carette, Chris Heunen, Robin Kaarsgaard and Amr Sabry. **The Quantum Effect: a recipe for QuantumPi.** [[slides]](/slides/chris.pdf)
   * Pablo Arrighi, Amélia Durbec and Matt Wilson. **Generalized tensors and partial traces over quantum networks.**
-  * Chris Heunen and Nesta van der Schaaf. **Ordered locales.**
+  * Chris Heunen and Nesta van der Schaaf. **Ordered locales.** [[slides]](/slides/nesta1.pptx)
 
 ##### 15:30 -- 16:00 Break
 ##### 16:00 -- 17:00 Poster Session 3
