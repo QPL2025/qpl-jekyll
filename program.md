@@ -235,7 +235,7 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 
 ##### 14:00 -- 15:30 Parallel Session 4
 * Room *Hermite*: **Generalised Probabilistic Theories.** Session chair: Lorenzo Catani.
-  * Paulo Cavalcanti, John Selby and Ana Belen Sainz. **Every no-signalling channel is common-cause realizable.**
+  * Paulo Cavalcanti, John Selby and Ana Belen Sainz. **Every no-signalling channel is common-cause realizable.** [[slides]](/slides/cavalcanti.pdf)
   * Martin Plávala and Matthias Kleinmann. **Generalized dynamical theories in phase space and the hydrogen atom.**
   * Gerd Niestegge. **Quantum transition probability and convex sets.** *Talk cancelled.*
 * Room *Darboux*: **(De)compositional Aspects.** Session chair: Emmanuel Jeandel.
