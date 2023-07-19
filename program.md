@@ -267,7 +267,7 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 
 ##### 09:00 -- 10:00 **Plenary Session 3**
 * Room *Hermite*. Session chair: Vladimir Zamdzhiev.
-  * Chris Heunen, Andre Kornell and Nesta van der Schaaf. **Axioms for the category of Hilbert spaces and linear contractions.**
+  * Chris Heunen, Andre Kornell and Nesta van der Schaaf. **Axioms for the category of Hilbert spaces and linear contractions.** [[slides]](/slides/nesta2.pdf)
   * Samson Abramsky and Rui Soares Barbosa. **Contextuality in logical form: duality for transitive partial CABAs.**
 
 ##### 10:00 -- 10:30 **Break**
