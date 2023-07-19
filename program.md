@@ -273,7 +273,7 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 ##### 10:00 -- 10:30 **Break**
 ##### 10:30 -- 12:00 Parallel Session 5
 * Room *Hermite*: **Contextuality.** Session chair: Rui Soares Barbosa.
-  * Beata Zjawin, David Schmid, Matty Hoban and Ana Belén Sainz. **Quantifying EPR: the resource theory of nonclassicality of common-cause assemblages.**
+  * Beata Zjawin, David Schmid, Matty Hoban and Ana Belén Sainz. **Quantifying EPR: the resource theory of nonclassicality of common-cause assemblages.** [[slides]](/slides/belen.pdf)
   * Kin Ian Lo, Mehrnoosh Sadrzadeh and Shane Mansfield. **Generalised Winograd Schema and its Contextuality.**
   * Lorenzo Catani, Ricardo Faleiro, Pierre-Emmanuel Emeriau, Shane Mansfield and Anna Pappa. **Connecting XOR and XOR\* games.**
 * Room *Darboux*: **Uncertainy and Thermodynamics.** Session chair: Mio Murao.
