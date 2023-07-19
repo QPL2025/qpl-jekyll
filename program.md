@@ -290,7 +290,7 @@ Lunches are *not* provided by the conference organisers. There are many restaura
   * Vivien Vandaele, Simon Martiel, Simon Perdrix and Christophe Vuillot. **Optimal Hadamard gate count for Clifford+T synthesis of Pauli rotations sequences.**
 * Room *Darboux*: **Foundations.** Session chair: Matthew Wilson.
   * Sebastian Horvat and Iulian Danut Toader. **Quantum logic and meaning.**
-  * Howard Barnum, Matthew Graydon and Alexander Wilce. **Locally Tomographic Shadows.**
+  * Howard Barnum, Matthew Graydon and Alexander Wilce. **Locally Tomographic Shadows.** [[slides]](/slides/wilce.pdf)
   * Nick Ormrod, V. Vilasini and Jonathan Barrett. **Which theories have a measurement problem?**
 
 ##### 15:30 -- 16:00 Break
