@@ -361,8 +361,8 @@ The dinner will be vegetarian with vegan options available upon request.
   * Boldizsár Poór, Robert I. Booth, Titouan Carette, John van de Wetering and Lia Yeh. **The Qupit Stabiliser ZX-travaganza: Simplified Axioms, Normal Forms and Graph-Theoretic Simplification.**
   * Tommy McElvanney and Miriam Backens. **Flow-preserving ZX-calculus rewrite rules for optimisation and obfuscation.**
 * Room *Darboux*: **Clocks and Spacetime.** Session chair: Hlér Kristjánsson.
-  * Nuriya Nurgalieva, Ralph Silva and Renato Renner. **Reconstructing the waiting time of a clock using the simplest possible reference.**
   * Caroline Jones, Stefan Ludescher, Albert Aloy and Markus Müller. **Theory-independent randomness generation with spacetime symmetries.**
+  * Nuriya Nurgalieva, Ralph Silva and Renato Renner. **Reconstructing the waiting time of a clock using the simplest possible reference.**
 
 ##### 15:00 -- 15:30 Break
 ##### 15:30 -- 17:00 Software Session
