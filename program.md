@@ -306,12 +306,12 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 ##### 10:30 -- 12:00 Parallel Session 7
 * Room *Hermite*: **Contextuality.** Session chair: Pierre-Emmanuel Emeriau.
   * Nuriya Nurgalieva and V. Vilasini. **Multi-agent logical paradoxes and contextuality.**
-  * Vinicius P. Rossi, David Schmid, John H. Selby and Ana Belén Sainz. **Contextuality with vanishing coherence and maximal robustness to dephasing.**
+  * Vinicius P. Rossi, David Schmid, John H. Selby and Ana Belén Sainz. **Contextuality with vanishing coherence and maximal robustness to dephasing.** [[slides]](/slides/rossi.pdf)
   * Rafael Wagner, Rui Soares Barbosa and Ernesto F. Galvão. **Inequalities witnessing coherence, nonlocality, and contextuality.**
 * Room *Darboux*: **Entanglement.** Session chair: Stefano Gogioso.
   * Anita Buckley and Klemen Sivic. **New entanglement witnesses and entangled states.**
   * Anindita Bera, Giovanni Scala, Gniewkomir Sarbicki and Dariusz Chruściński. **Generalizing Choi map in M_3 beyond circulant scenario.**
-  * Seungbeom Chin, Yong-Su Kim, Marcin Karczewski and Sangmin Lee. **Graph approach to generate multipartite entanglement with linear quantum networks.**
+  * Seungbeom Chin, Yong-Su Kim, Marcin Karczewski and Sangmin Lee. **Graph approach to generate multipartite entanglement with linear quantum networks.** [[slides]](/slides/chin.pdf)
 
 ##### 12:00 -- 14:00 **Lunch**
 
