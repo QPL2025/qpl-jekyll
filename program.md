@@ -307,7 +307,7 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 * Room *Hermite*: **Contextuality.** Session chair: Pierre-Emmanuel Emeriau.
   * Nuriya Nurgalieva and V. Vilasini. **Multi-agent logical paradoxes and contextuality.** [[slides]](/slides/nuriya1.pdf)
   * Vinicius P. Rossi, David Schmid, John H. Selby and Ana Belén Sainz. **Contextuality with vanishing coherence and maximal robustness to dephasing.** [[slides]](/slides/rossi.pdf)
-  * Rafael Wagner, Rui Soares Barbosa and Ernesto F. Galvão. **Inequalities witnessing coherence, nonlocality, and contextuality.**
+  * Rafael Wagner, Rui Soares Barbosa and Ernesto F. Galvão. **Inequalities witnessing coherence, nonlocality, and contextuality.** [[slides]](/slides/rui.pdf)
 * Room *Darboux*: **Entanglement.** Session chair: Stefano Gogioso.
   * Anita Buckley and Klemen Sivic. **New entanglement witnesses and entangled states.** [[slides]](/slides/buckley.pdf)
   * Anindita Bera, Giovanni Scala, Gniewkomir Sarbicki and Dariusz Chruściński. **Generalizing Choi map in M_3 beyond circulant scenario.**
@@ -317,8 +317,8 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 
 ##### 14:00 -- 15:30 Parallel Session 8
 * Room *Hermite*: **Diagrammatic Calculi.** Session chair: Aleks Kissinger.
-  * Patrick Roy, John van de Wetering and Lia Yeh. **The qudit ZH-calculus: generalised Toffoli+Hadamard and universality.**
-  * Giovanni de Felice, Razin Shaikh, Boldizsar Poor, Lia Yeh, Quanlong Wang and Bob Coecke. **Light-matter rewriting in the ZXW calculus.**
+  * Patrick Roy, John van de Wetering and Lia Yeh. **The qudit ZH-calculus: generalised Toffoli+Hadamard and universality.** [[slides]](/slides/roy.pdf)
+  * Giovanni de Felice, Razin Shaikh, Boldizsar Poor, Lia Yeh, Quanlong Wang and Bob Coecke. **Light-matter rewriting in the ZXW calculus.** [[slides]](/slides/giovanni.pdf)
   * Titouan Carette, Timothée Hoffreumon, Émile Larroque and Renaud Vilmart. **Complete Graphical Language for Hermiticity-Preserving Superoperators.**
 * Room *Darboux*: **Quantum Computation.** Session chair: Ulysse Chabaud.
   * Satoshi Yoshida, Akihito Soeda and Mio Murao. **Universal, deterministic, and exact protocol to reverse qubit-unitary and qubit-encoding isometry operations.**
