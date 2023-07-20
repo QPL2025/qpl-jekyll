@@ -299,7 +299,7 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 
 ##### 09:00 -- 10:00 **Plenary Session 4**
 * Room *Hermite*. Session chair: Titouan Carette.
-  * Boldizsár Poór, Quanlong Wang, Razin Shaikh, Lia Yeh, Richie Yeung and Bob Coecke. **Completeness for arbitrary finite dimensions of ZXW-calculus, a unifying calculus.**
+  * Boldizsár Poór, Quanlong Wang, Razin Shaikh, Lia Yeh, Richie Yeung and Bob Coecke. **Completeness for arbitrary finite dimensions of ZXW-calculus, a unifying calculus.** [[slides]](/slides/razin.pdf)
   * Alexandre Clément, Noé Delorme, Simon Perdrix and Renaud Vilmart. **Simple Complete Equational Theories for Quantum Circuits with Ancillae or Partial Trace.**
 
 ##### 10:00 -- 10:30 **Break**
