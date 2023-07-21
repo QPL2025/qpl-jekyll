@@ -236,7 +236,7 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 ##### 14:00 -- 15:30 Parallel Session 4
 * Room *Hermite*: **Generalised Probabilistic Theories.** Session chair: Lorenzo Catani.
   * Paulo Cavalcanti, John Selby and Ana Belen Sainz. **Every no-signalling channel is common-cause realizable.** [[slides]](/slides/cavalcanti.pdf)
-  * Martin Plávala and Matthias Kleinmann. **Generalized dynamical theories in phase space and the hydrogen atom.**
+  * Martin Plávala and Matthias Kleinmann. **Generalized dynamical theories in phase space and the hydrogen atom.** [[slides]](/slides/plavala.pdf)
   * Gerd Niestegge. **Quantum transition probability and convex sets.** *Talk cancelled.*
 * Room *Darboux*: **(De)compositional Aspects.** Session chair: Emmanuel Jeandel.
   * Jacques Carette, Chris Heunen, Robin Kaarsgaard and Amr Sabry. **The Quantum Effect: a recipe for QuantumPi.** [[slides]](/slides/chris.pdf)
@@ -341,13 +341,13 @@ The dinner will be vegetarian with vegan options available upon request.
 ##### 09:00 -- 10:00 **Plenary Session 5**
 * Room *Hermite*. Session chair: Benoît Valiron.
   * Yu-Fang Chen, Kai-Min Chung, Ondřej Lengál, Jyun-Ao Lin, Wei-Lun Tsai and Di-De Yen. **An Automata-based Framework for Verification and Bug Hunting in Quantum Circuits.**
-  * Matt Wilson, Giulio Chiribella and Aleks Kissinger. **Quantum Supermaps are Characterised by Locality.**
+  * Matt Wilson, Giulio Chiribella and Aleks Kissinger. **Quantum Supermaps are Characterised by Locality.** [[slides]](/slides/wilson2.pdf)
 
 ##### 10:00 -- 10:30 **Break**
 ##### 10:30 -- 12:00 Parallel Session 9
 * Room *Hermite*: **Error-correction.** Session chair: Renaud Vilmart.
   * Alex Townsend-Teague, Julio Magdalena de la Fuente and Markus Kesselring. **Re-Implementing Stabilizer Codes as Floquet Codes.**
-  * Cole Comfort. **The Algebra of Stabilizer Codes.**
+  * Cole Comfort. **The Algebra of Stabilizer Codes.** [[slides]](/slides/cole.pdf)
   * Jiaxin Huang, Sarah Meng Li, Lia Yeh, Aleks Kissinger, Michele Mosca and Michael Vasmer. **Graphical CSS Code Transformation Using ZX Calculus.**
 * Room *Darboux*: **Information and Disturbance.** Session chair: Ravi Kunjwal.
   * Gilad Gour, Mark Wilde, Sam Brandsen and Isabelle Geng. **Inevitability of knowing less than nothing.** Remote Presentation.
@@ -362,7 +362,7 @@ The dinner will be vegetarian with vegan options available upon request.
   * Tommy McElvanney and Miriam Backens. **Flow-preserving ZX-calculus rewrite rules for optimisation and obfuscation.**
 * Room *Darboux*: **Clocks and Spacetime.** Session chair: Hlér Kristjánsson.
   * Caroline Jones, Stefan Ludescher, Albert Aloy and Markus Müller. **Theory-independent randomness generation with spacetime symmetries.**
-  * Nuriya Nurgalieva, Ralph Silva and Renato Renner. **Reconstructing the waiting time of a clock using the simplest possible reference.**
+  * Nuriya Nurgalieva, Ralph Silva and Renato Renner. **Reconstructing the waiting time of a clock using the simplest possible reference.** [[slides]](/slides/nuriya2.pdf)
 
 ##### 15:00 -- 15:30 Break
 ##### 15:30 -- 17:00 Software Session
