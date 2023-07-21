@@ -377,7 +377,7 @@ The dinner will be vegetarian with vegan options available upon request.
 
 ##### 17:00 -- 18:00 QPL General Meeting
 * Room *Hermite*
-  * Discussion about QPL organisation
+  * Discussion about QPL organisation. [[slides]](/slides/general.pdf)
 
 ### Diamond Sponsor
 ![Quandela](/images/quandela.svg)
