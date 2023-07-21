@@ -358,8 +358,8 @@ The dinner will be vegetarian with vegan options available upon request.
 
 ##### 14:00 -- 15:00 Parallel Session 10
 * Room *Hermite*: **Diagrammatic Calculi.** Session chair: Simon Perdrix.
-  * Boldizsár Poór, Robert I. Booth, Titouan Carette, John van de Wetering and Lia Yeh. **The Qupit Stabiliser ZX-travaganza: Simplified Axioms, Normal Forms and Graph-Theoretic Simplification.**
-  * Tommy McElvanney and Miriam Backens. **Flow-preserving ZX-calculus rewrite rules for optimisation and obfuscation.**
+  * Boldizsár Poór, Robert I. Booth, Titouan Carette, John van de Wetering and Lia Yeh. **The Qupit Stabiliser ZX-travaganza: Simplified Axioms, Normal Forms and Graph-Theoretic Simplification.** [[slides]](/slides/poor.pdf)
+  * Tommy McElvanney and Miriam Backens. **Flow-preserving ZX-calculus rewrite rules for optimisation and obfuscation.** [[slides]](/slides/tommy.pdf)
 * Room *Darboux*: **Clocks and Spacetime.** Session chair: Hlér Kristjánsson.
   * Caroline Jones, Stefan Ludescher, Albert Aloy and Markus Müller. **Theory-independent randomness generation with spacetime symmetries.**
   * Nuriya Nurgalieva, Ralph Silva and Renato Renner. **Reconstructing the waiting time of a clock using the simplest possible reference.** [[slides]](/slides/nuriya2.pdf)
