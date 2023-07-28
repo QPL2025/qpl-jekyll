@@ -182,7 +182,7 @@ Lunches are *not* provided by the conference organisers. There are many restaura
 * Room *Darboux*: **Higher-order Transformations.** Session chair: Augustin Vanrietvelde.
   * Ravi Kunjwal and Ognyan Oreshkov. **Nonclassicality in correlations without causal order.** Remote Presentation.
   * Alastair Abbott, Mehdi Mhalla and Pierre Pocreau. **Query Complexity of Boolean Functions under Indefinite Causal Order.**
-  * Tatsuki Odake, Hlér Kristjánsson, Akihito Soeda and Mio Murao. **Higher-order quantum transformations of Hamiltonian dynamics.**
+  * Tatsuki Odake, Hlér Kristjánsson, Akihito Soeda and Mio Murao. **Higher-order quantum transformations of Hamiltonian dynamics.** [[slides]](/slides/odake.pdf)
 
 ##### 15:30 -- 16:00 Break
 ##### 16:00 -- 17:00 Poster Session 1
