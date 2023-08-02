@@ -168,7 +168,7 @@ Lunches are *not* provided by the conference organisers. There are many restaura
   * Stefano Gogioso and Nicola Pinzani. **The Topology of Causality.** Remote Presentation.
   * Ravi Kunjwal and Ämin Baumeler. **Trading causal order for locality.** Remote Presentation.
 * Room *Darboux*: **Categories.** Session chair: Peter Selinger.
-  * Jean-Simon Lemay and Robin Cockett. **Moore-Penrose Dagger Categories.**
+  * Jean-Simon Lemay and Robin Cockett. **Moore-Penrose Dagger Categories.** [[slides]](/slides/js.pdf)
   * Gejza Jenča and Bert Lindenhovius. **Quantum suplattices.** [[slides]](/slides/bert.pdf)
   * Matthew Wilson and Giulio Chiribella. **Polycategories of Supermaps on Monoidal Categories.** [[slides]](/slides/wilson.pdf)
 
@@ -211,7 +211,7 @@ Lunches are *not* provided by the conference organisers. There are many restaura
   * Tim Forrer, Matt Wilson and Mio Murao. **Reduction to a Subsystem Always Internalises.**
   * Nicklas Botö and Fabian Forslund. **The Zeta Calculus.**
   * Andreas Bluhm, Ion Nechita and Simon Schmidt. **Polytope compatibility - from quantum measurements to magic squares.**
-  * Marco Erba, Paolo Perinotti, Alessandro Tosini and Davide Rolino. **Disentangling Bohr and Heisenberg: complementarity is a stronger feature than disturbance.**
+  * Marco Erba, Paolo Perinotti, Alessandro Tosini and Davide Rolino. **Disentangling Bohr and Heisenberg: complementarity is a stronger feature than disturbance.** [[poster]](/posters/erba.pdf)
   * Hippolyte Dourdent, Alastair Abbott, Ivan Supic and Cyril Branciard. **Network-Device-Independent Certification of Causal Nonseparability.**
 
 ## Tuesday
@@ -340,7 +340,7 @@ The dinner will be vegetarian with vegan options available upon request.
 
 ##### 09:00 -- 10:00 **Plenary Session 5**
 * Room *Hermite*. Session chair: Benoît Valiron.
-  * Yu-Fang Chen, Kai-Min Chung, Ondřej Lengál, Jyun-Ao Lin, Wei-Lun Tsai and Di-De Yen. **An Automata-based Framework for Verification and Bug Hunting in Quantum Circuits.**
+  * Yu-Fang Chen, Kai-Min Chung, Ondřej Lengál, Jyun-Ao Lin, Wei-Lun Tsai and Di-De Yen. **An Automata-based Framework for Verification and Bug Hunting in Quantum Circuits.** [[slides]](/slides/lin.pdf)
   * Matt Wilson, Giulio Chiribella and Aleks Kissinger. **Quantum Supermaps are Characterised by Locality.** [[slides]](/slides/wilson2.pdf)
 
 ##### 10:00 -- 10:30 **Break**
