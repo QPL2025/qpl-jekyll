@@ -195,7 +195,7 @@ Lunches are *not* provided by the conference organisers. There are many restaura
   * Lukas Schmitt and V. Vilasini. **Operational causality and realisable processes in the Page-Wootters framework.** [[poster]](/posters/schmitt.pdf)
   * Korbinian Staudacher and Dieter Kranzlmüller. **On circuit extraction from MBQC patterns with Pauli flow.** [[poster]](/posters/staudacher.pdf)
   * Jun-Yi Wu, Kosuke Matsui, Tim Forrer, Akihito Soeda, Pablo Andrés-Martínez, Daniel Mills, Luciana Henaut and Mio Murao. **Entanglement-efficient bipartite-distributed quantum computing with entanglement-assisted packing processes.**
-  * Lorenzo Perticone and Robin Adams. **Effect Algebras as Omega-Categories.**
+  * Lorenzo Perticone and Robin Adams. **Effect Algebras as Omega-Categories.** [[poster]](/posters/adams.pdf)
   * Mark Koch, Richie Yeung and Quanlong Wang. **Speedy Contraction of ZX Diagrams with Triangles via Stabiliser Decompositions.**
   * Pierre-Emmanuel Emeriau, Kim Vallée, Shane Mansfield, Damian Markham, Boris Bourdoncle and Adel Sohbi. **Corrected Bell and Noncontextuality Inequalities for Realistic Experiments.**
   * Tiffany Duneau and Bob Coecke. **Revisiting Complementarity of Spiders.**
