@@ -21,12 +21,12 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://qpl2023.github.io/'
+url: 'https://qpl2025.github.io/'
 baseurl: ''
 title: 'QPL'
-description: 'Official Website for the QPL 2023 Conference'
+description: 'Official Website for the QPL 2025 Conference'
 permalink: pretty
-logo: "/images/QPL-logo-final-no-title.svg"
+# logo: "/images/QPL-logo-final-no-title.svg"
 
 # Pagination
 # paginate: 5
@@ -38,12 +38,12 @@ navigation_header:
   url: /
 - title: Local Information
   url: /#local-information
-- title: Accepted Submissions
-  url: /accepted/
-- title: Program
-  url: /program/
-- title: Registration
-  url: /registration/
+# - title: Accepted Submissions
+# url: /accepted/
+# - title: Program
+# url: /program/
+# - title: Registration
+# url: /registration/
 
 # Footer nav
 navigation_footer:
