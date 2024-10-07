@@ -93,7 +93,7 @@ TBA
 
 ### Organising Committee
 
-* Timothée Hoffreumon (Inria, France)
+* Timothée Hoffreumon (Université Paris-Saclay, France)
 * [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov) (Université libre de Bruxelles, Belgium)
 * [Vladimir Zamdzhiev](https://zamdzhiev.github.io/)      (Inria, France)
 
