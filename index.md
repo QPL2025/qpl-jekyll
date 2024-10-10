@@ -86,7 +86,7 @@ More local information will be provided later.
 
 ### Programme Committee Co-chairs
 
-* [Alejandro Díaz-Caro](https://www-2.dc.uba.ar/staff/adiazcaro/) (Universidad Nacional de Quilmes & ICC (CONICET / Universidad de Buenos Aires))
+* [Alejandro Díaz-Caro](https://www-2.dc.uba.ar/staff/adiazcaro/) (Inria, LORIA & Universidad Nacional de Quilmes)
 * [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov) (Université libre de Bruxelles)
 * [Ana Belén Sainz](https://www.absainz.com/) (ICTQT, University of Gdansk)
 
@@ -98,7 +98,7 @@ TBA
 
 * Timothée Hoffreumon (Université Paris-Saclay, France)
 * [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov) (Université libre de Bruxelles, Belgium)
-* [Vladimir Zamdzhiev](https://zamdzhiev.github.io/)      (Inria, France)
+* [Vladimir Zamdzhiev](https://zamdzhiev.github.io/) (Inria, France)
 
 Feel free to email Vladimir Zamdzhiev `{first.last at inria dot fr}` with any questions or concerns.
 
