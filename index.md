@@ -86,7 +86,7 @@ More local information will be provided later.
 
 ### Programme Committee Co-chairs
 
-* [Alejandro Díaz-Caro](https://www-2.dc.uba.ar/staff/adiazcaro/) (Inria, LORIA & Universidad Nacional de Quilmes)
+* [Alejandro Díaz-Caro](https://members.loria.fr/adiazcaro) (Inria, LORIA & Universidad Nacional de Quilmes)
 * [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov) (Université libre de Bruxelles)
 * [Ana Belén Sainz](https://www.absainz.com/) (ICTQT, University of Gdansk)
 
