@@ -78,7 +78,7 @@ suggestions under the provisio that they do not introduce new results.
 
 ### Local Information
 
-The conference will take place at the [Rosslyn Dimyat Hotel](https://dimyat.rosslyn-hotels.com/) in Varna, Bulgaria.
+The conference will take place at the [Rosslyn Dimyat Hotel](https://dimyat.rosslyn-hotels.com/page/hotel) in Varna, Bulgaria.
 
 {% include map.html id="location" title="Conference Location" %}
 
