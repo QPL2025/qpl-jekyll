@@ -22,10 +22,10 @@ also welcome.
 
 ### Important Dates
 
-* Abstract submission deadline: TBA
-* Paper submission deadline: TBA
-* Notification: TBA
-* Camera-ready deadline: TBA
+* Abstract submission deadline: 9 February 2025
+* Paper submission deadline: 16 February 2025
+* Notification: 24 March 2025
+* Camera-ready deadline (revised accepted proceedings manuscripts): 15 June 2025
 * Conference: 14 July -- 18 July 2025
 
 All deadlines are stated with respect to the [Anywhere on Earth (AoE) time zone](https://www.timeanddate.com/time/zones/aoe).
@@ -44,7 +44,7 @@ Prospective speakers are invited to submit one (or more) of the following:
   a link to a separate published paper or preprint. If the published paper or
   preprint is not publicly available (e.g. not open access), then it should be
   included in full after the summary.
-* **Poster submission.** This consists of a 3 page abstract of partial results or
+* **Poster submission.** This consists of a 3 page summary of partial results or
   work in progress.
 
 Page limits exclude bibliography and appendices (which may be read at the
@@ -98,6 +98,8 @@ TBA
 
 * Timothée Hoffreumon (Université Paris-Saclay, France)
 * [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov) (Université libre de Bruxelles, Belgium)
+* Eleftherios-Ermis Tselentis (Université libre de Bruxelles, Belgium)
+* [Zixiuan Liu](https://liu-zixuan.github.io/) (Université libre de Bruxelles, Belgium)
 * [Vladimir Zamdzhiev](https://zamdzhiev.github.io/) (Inria, France)
 
 Feel free to email Vladimir Zamdzhiev `{first.last at inria dot fr}` with any questions or concerns.
