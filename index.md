@@ -92,7 +92,55 @@ More local information will be provided later.
 
 ### Programme Committee
 
-TBA
+* Alastair Abbott
+* Pablo Arrighi
+* Miriam Backens
+* Rui Soares Barbosa
+* Åmin Baumeler
+* Jessica Bavaresco
+* Alessandro Bisio
+* Robert Booth
+* Cyril Branciard
+* Titouan Carette
+* Ulysse Chabaud
+* Giulio Chiribella
+* Bob Coecke
+* Marcelo Terra Cunha
+* Ross Duncan
+* Pierre-Emmanuel Emeriau
+* Flaminia Giacomini
+* Stefano Gogioso
+* Matty Hoban
+* Emmanuel Jeandel
+* Anna Jenčová
+* Robin Kaarsgaard
+* Kohei Kishida
+* Aleks Kissinger
+* Ravi Kunjwal
+* Robin Lorenz
+* Glaucia Murta
+* Nuriya Nurgalieva
+* Anna Pearson
+* Simon Perdrix
+* Nicola Pinzani
+* Robert Rand
+* Neil Ross
+* Mehrnoosh Sadrzadeh
+* Carlo Maria Scandolo
+* John Selby
+* Peter Selinger
+* Sonja Smets
+* Pawel Sobocinski
+* Isar Stubbe
+* Benoît Valiron
+* Augustin Vanrietvelde
+* Vilasini Venkatesh
+* Juliana Kaizer Vizzotto
+* Quanlong Wang
+* Julian Wechs
+* Mirjam Weilenmann
+* Alexander Wilce
+* Margherita Zorzi
 
 ### Organising Committee
 
@@ -102,8 +150,6 @@ TBA
 * Eleftherios-Ermis Tselentis (Université libre de Bruxelles, Belgium)
 * [Zixiuan Liu](https://liu-zixuan.github.io/) (Université libre de Bruxelles, Belgium)
 * [Vladimir Zamdzhiev](https://zamdzhiev.github.io/) (Inria, France)
-
-Feel free to email Vladimir Zamdzhiev `{first.last at inria dot fr}` with any questions or concerns.
 
 ### QPL Steering Committee
 
