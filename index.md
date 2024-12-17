@@ -126,6 +126,7 @@ More local information will be provided later.
 * Robert Rand
 * Neil Ross
 * Mehrnoosh Sadrzadeh
+* Nitica Sakharwade
 * Carlo Maria Scandolo
 * John Selby
 * Peter Selinger
