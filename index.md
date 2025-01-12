@@ -106,6 +106,7 @@ More local information will be provided later.
 * Giulio Chiribella
 * Bob Coecke
 * Marcelo Terra Cunha
+* Alejandro Díaz-Caro
 * Ross Duncan
 * Pierre-Emmanuel Emeriau
 * Flaminia Giacomini
@@ -114,18 +115,21 @@ More local information will be provided later.
 * Emmanuel Jeandel
 * Anna Jenčová
 * Robin Kaarsgaard
+* Martti Karvonen
 * Kohei Kishida
 * Aleks Kissinger
 * Ravi Kunjwal
 * Robin Lorenz
 * Glaucia Murta
 * Nuriya Nurgalieva
+* Ognyan Oreshkov
 * Anna Pearson
 * Simon Perdrix
 * Nicola Pinzani
 * Robert Rand
 * Neil Ross
 * Mehrnoosh Sadrzadeh
+* Ana Belén Sainz
 * Nitica Sakharwade
 * Carlo Maria Scandolo
 * John Selby
@@ -136,10 +140,12 @@ More local information will be provided later.
 * Benoît Valiron
 * Augustin Vanrietvelde
 * Vilasini Venkatesh
+* Renaud Vilmart
 * Juliana Kaizer Vizzotto
 * Quanlong Wang
 * Julian Wechs
 * Mirjam Weilenmann
+* John van de Wetering
 * Alexander Wilce
 * Margherita Zorzi
 
