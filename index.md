@@ -48,8 +48,7 @@ Prospective speakers are invited to submit one (or more) of the following:
   work in progress.
 
 Page limits exclude bibliography and appendices (which may be read at the
-discretion of reviewers). All submissions will be handled by EasyChair (link
-TBA).
+discretion of reviewers). All submissions will be handled by [EasyChair](https://easychair.org/cfp/QPL2025).
 
 There will be an award for Best Student Paper that will be determined by the
 Program Committee. Papers eligible for the award are those where all the
