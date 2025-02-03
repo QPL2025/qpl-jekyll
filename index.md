@@ -83,6 +83,10 @@ The conference will take place in Varna, Bulgaria.
 
 Further local information will be provided later.
 
+### Contact
+
+Please send any inquiries to [qpl.conference.2025@gmail.com](mailto:qpl.conference.2025@gmail.com).
+
 ### Programme Committee Co-chairs
 
 * [Alejandro Díaz-Caro](https://members.loria.fr/adiazcaro) (Inria, LORIA & Universidad Nacional de Quilmes)
@@ -95,7 +99,7 @@ Further local information will be provided later.
 * Pablo Arrighi
 * Miriam Backens
 * Rui Soares Barbosa
-* Åmin Baumeler
+* Ämin Baumeler
 * Jessica Bavaresco
 * Alessandro Bisio
 * Robert Booth

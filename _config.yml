@@ -38,6 +38,8 @@ navigation_header:
   url: /
 - title: Local Information
   url: /#local-information
+- title: Contact
+  url: /#contact
 # - title: Accepted Submissions
 # url: /accepted/
 # - title: Program
