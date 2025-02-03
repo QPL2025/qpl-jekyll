@@ -153,7 +153,7 @@ Further local information will be provided later.
 
 * [James Hefford](https://heffordj.github.io/) (Inria, France)
 * Timothée Hoffreumon (Université Paris-Saclay, France)
-* [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov) (Université libre de Bruxelles, Belgium)
+* [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov) (Chair) (Université libre de Bruxelles, Belgium)
 * Eleftherios-Ermis Tselentis (Université libre de Bruxelles, Belgium)
 * [Zixiuan Liu](https://liu-zixuan.github.io/) (Université libre de Bruxelles, Belgium)
 * [Vladimir Zamdzhiev](https://zamdzhiev.github.io/) (Inria, France)
