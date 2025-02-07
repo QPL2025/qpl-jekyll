@@ -40,6 +40,8 @@ navigation_header:
   url: /#local-information
 - title: Contact
   url: /#contact
+- title: Code of Conduct
+  url: /#code-of-conduct
 # - title: Accepted Submissions
 # url: /accepted/
 # - title: Program
