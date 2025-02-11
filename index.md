@@ -78,7 +78,7 @@ suggestions under the provisio that they do not introduce new results.
 
 ### Local Information
 
-The conference will take place in Varna, Bulgaria.
+The conference will take place in [Varna](https://visit.varna.bg/en/index.html), Bulgaria.
 
 {% include map.html id="location" title="Conference Location" %}
 
@@ -86,7 +86,9 @@ Further local information will be provided later.
 
 ### Contact
 
-Please send any inquiries to [qpl.conference.2025@gmail.com](mailto:qpl.conference.2025@gmail.com).
+For inquiries related to the submission and review process, please write to the PC chairs at [pcchairsqpl2025@gmail.com](mailto:pcchairsqpl2025@gmail.com). 
+
+For inquiries related to the conference itself, please write to [qpl.conference.2025@gmail.com](mailto:qpl.conference.2025@gmail.com).
 
 ### Programme Committee Co-chairs
 
