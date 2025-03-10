@@ -174,6 +174,11 @@ For inquiries related to the conference itself, please write to [qpl.conference.
 
 An archive of all previous QPL editions is [available](https://www.mathstat.dal.ca/~selinger/qpl/).
 
+### Organisational Support and Funding
+
+<!-- ![ULB](images/ulb.png "ULB") -->
+<img src="images/ulb.png" alt="ULB" width="60%" height="60%">
+
 ### Code of Conduct
 
 Please make this conference a welcoming space for everyone. We ask you to use your real name when logging into any of our systems. Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or scientific opinion. We do not tolerate harassment of community members in any form.
