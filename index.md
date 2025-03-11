@@ -76,6 +76,8 @@ accepted proceedings submissions are allowed to use up to three extra pages
 (i.e. up to 15 pages excluding bibliography) to address reviewer concerns and
 suggestions under the provisio that they do not introduce new results.
 
+UPDATE: We are in discussions with JLAMP regarding a special issue; details will follow.
+
 ### Local Information
 
 The conference will take place in [Varna](https://visit.varna.bg/en/index.html), Bulgaria.
