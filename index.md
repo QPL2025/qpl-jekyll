@@ -80,7 +80,7 @@ UPDATE: We are in discussions with JLAMP regarding a special issue; details will
 
 ### Local Information
 
-The conference will take place in [Varna](https://visit.varna.bg/en/index.html), Bulgaria.
+The conference will take place at the [Hotel Cherno More](https://www.chernomorebg.com/en/index.html) in [Varna](https://visit.varna.bg/en/index.html), Bulgaria.
 
 {% include map.html id="location" title="Conference Location" %}
 
