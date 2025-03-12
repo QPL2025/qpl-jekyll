@@ -74,9 +74,10 @@ Theoretical Computer Science (EPTCS)](https://about.eptcs.org/) after the
 conference. When preparing the final version for publication, authors of
 accepted proceedings submissions are allowed to use up to three extra pages
 (i.e. up to 15 pages excluding bibliography) to address reviewer concerns and
-suggestions under the provisio that they do not introduce new results.
+suggestions under the proviso that they do not introduce new results.
 
-UPDATE: We are in discussions with JLAMP regarding a special issue; details will follow.
+#### Special Edition
+In addition to the proceedings, we are in discussions with JLAMP regarding a special issue; details will follow.
 
 ### Local Information
 
