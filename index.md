@@ -5,7 +5,10 @@ title: QPL 2025
 #   ## Quantum Physics and Logic 2025
 ---
 
-![Varna](images/varna.jpeg "Varna, Bulgaria")
+<!-- ![Varna](images/varna.jpeg "Varna, Bulgaria") -->
+<center>
+<img src="images/varna.jpeg" alt="Varna" width="70%" height="70%">
+</center>
 
 The **22nd International Conference on Quantum Physics and Logic (QPL 2025)**
 will take place from 14 July to 18 July 2025 in Varna, Bulgaria.  Quantum
@@ -180,7 +183,7 @@ An archive of all previous QPL editions is [available](https://www.mathstat.dal.
 ### Organisational Support and Funding
 
 <!-- ![ULB](images/ulb.png "ULB") -->
-<img src="images/ulb.png" alt="ULB" width="60%" height="60%">
+<img src="images/ulb.png" alt="ULB" width="40%" height="40%">
 
 ### Code of Conduct
 
