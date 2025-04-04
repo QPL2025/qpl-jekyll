@@ -82,14 +82,6 @@ suggestions under the proviso that they do not introduce new results.
 #### Special Edition
 In addition to the proceedings, we are in discussions with JLAMP regarding a special issue; details will follow.
 
-### Local Information
-
-The conference will take place at the [Hotel Cherno More](https://www.chernomorebg.com/en/index.html) in [Varna](https://visit.varna.bg/en/index.html), Bulgaria.
-
-{% include map.html id="location" title="Conference Location" %}
-
-Further local information will be provided later.
-
 ### Contact
 
 For inquiries related to the submission and review process, please write to the PC chairs at [pcchairsqpl2025@gmail.com](mailto:pcchairsqpl2025@gmail.com). 

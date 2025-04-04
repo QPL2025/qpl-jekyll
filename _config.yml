@@ -37,7 +37,7 @@ navigation_header:
 - title: Home
   url: /
 - title: Local Information
-  url: /#local-information
+  url: /local_info/
 - title: Contact
   url: /#contact
 - title: Code of Conduct
