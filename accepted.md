@@ -299,7 +299,7 @@ The following submissions to QPL 2025 have been accepted to appear in the procee
 </table>
 
 #### Special Session on Education
-At the discretion of the PC chairs, the following talk has been exceptionally accepted for a special session on education.
+At the discretion of the PC, the following talk has been exceptionally accepted for a special session on education.
 
 <table border="1" class="dataframe">
 <colgroup>
