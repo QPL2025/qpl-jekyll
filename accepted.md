@@ -148,10 +148,6 @@ The following submissions to QPL 2025 have been accepted to appear in the procee
       <td>Generalised process theories</td>
     </tr>
     <tr>
-      <td>Bob Coecke, Stefano Gogioso, Aleks Kissinger, Selma Dündar-Coecke, Caterina Puca, Lia Yeh, Muhammad Hamza Waseem, Sieglinde M.-L. Pfaendler, Thomas Cervoni and Vincent Wang-Mascianica</td>
-      <td>High schoolers excel at Oxford post-graduate quantum exam: empirical evidence in support of quantum picturalism as a new formalism for quantum theory</td>
-    </tr>
-    <tr>
       <td>Clément Poirson, Robert Booth and Joschka Roffe</td>
       <td>CSS surgery: compiling any CNOT in any code</td>
     </tr>
@@ -298,6 +294,28 @@ The following submissions to QPL 2025 have been accepted to appear in the procee
     <tr>
       <td>Nihil Shah and Anuj Dawar</td>
       <td>Complexity of Satisfiablity in Kochen-Specker Partial Boolean Algebras</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Special Session on Education
+At the discretion of the PC chairs, the following talk has been exceptionally accepted for a special session on education.
+
+<table border="1" class="dataframe">
+<colgroup>
+<col width="40%" />
+<col width="60%" />
+</colgroup>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Authors</th>
+      <th>Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Bob Coecke, Stefano Gogioso, Aleks Kissinger, Selma Dündar-Coecke, Caterina Puca, Lia Yeh, Muhammad Hamza Waseem, Sieglinde M.-L. Pfaendler, Thomas Cervoni and Vincent Wang-Mascianica</td>
+      <td>High schoolers excel at Oxford post-graduate quantum exam: empirical evidence in support of quantum picturalism as a new formalism for quantum theory</td>
     </tr>
   </tbody>
 </table>

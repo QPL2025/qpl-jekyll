@@ -5,6 +5,11 @@ styles: true
 
 @import "alembic";
 
+.typeset{
+h4, .delta {
+    @include sassline(delta, $headingtype, 3, 1, all);
+}}
+
 @media screen and (min-width: 40em) {
   .content {
     width: 80%;
