@@ -88,6 +88,16 @@ For inquiries related to the submission and review process, please write to the 
 
 For inquiries related to the conference itself, please write to [qpl.conference.2025@gmail.com](mailto:qpl.conference.2025@gmail.com).
 
+### Platinum Sponsors
+
+<img style="vertical-align: middle" src="images/quantinuum.png" alt="Quantinuum" width="30%" height="30%">
+<img style="vertical-align: middle" src="images/neverlocal.svg" alt="Quantinuum" width="40%" height="40%">
+
+### Organisational Support and Funding
+
+<!-- ![ULB](images/ulb.png "ULB") -->
+<img src="images/ulb.png" alt="ULB" width="40%" height="40%">
+
 ### Programme Committee Co-chairs
 
 * [Alejandro Díaz-Caro](https://members.loria.fr/adiazcaro) (Inria, LORIA & Universidad Nacional de Quilmes)
@@ -171,11 +181,6 @@ For inquiries related to the conference itself, please write to [qpl.conference.
 ### Previous QPL Editions
 
 An archive of all previous QPL editions is [available](https://www.mathstat.dal.ca/~selinger/qpl/).
-
-### Organisational Support and Funding
-
-<!-- ![ULB](images/ulb.png "ULB") -->
-<img src="images/ulb.png" alt="ULB" width="40%" height="40%">
 
 ### Code of Conduct
 
