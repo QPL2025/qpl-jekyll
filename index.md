@@ -1,13 +1,13 @@
 ---
 title: QPL 2025
-# feature_image: "images/varna.jpg"
+# feature_image: "images/varna.jpeg"
 # feature_text: |
 #   ## Quantum Physics and Logic 2025
 ---
 
 <!-- ![Varna](images/varna.jpeg "Varna, Bulgaria") -->
 <center>
-<img src="images/varna.jpeg" alt="Varna" width="70%" height="70%">
+<img src="images/varna.jpeg" alt="Varna" width="100%" height="auto">
 </center>
 
 The **22nd International Conference on Quantum Physics and Logic (QPL 2025)**
@@ -90,13 +90,14 @@ For inquiries related to the conference itself, please write to [qpl.conference.
 
 ### Platinum Sponsors
 
-<img style="vertical-align: middle" src="images/quantinuum.png" alt="Quantinuum" width="30%" height="30%">
-<img style="vertical-align: middle" src="images/neverlocal.svg" alt="Quantinuum" width="40%" height="40%">
+<img style="vertical-align: middle; max-width: 500px; width: 100%; height: auto" src="images/neverlocal.svg" alt="Neverlocal">
+
+<img style="vertical-align: middle; max-width: 500px; width: 100%; height: auto" src="images/quantinuum.png" alt="Quantinuum">
 
 ### Organisational Support and Funding
 
 <!-- ![ULB](images/ulb.png "ULB") -->
-<img src="images/ulb.png" alt="ULB" width="40%" height="40%">
+<img style="vertical-align: middle; max-width: 500px; width: 100%; height: auto" src="images/ulb.png" alt="ULB">
 
 ### Programme Committee Co-chairs
 
