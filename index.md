@@ -99,6 +99,7 @@ For inquiries related to the conference itself, please write to [qpl.conference.
 <!-- ![ULB](images/ulb.png "ULB") -->
 <img style="vertical-align: middle; max-width: 500px; width: 100%; height: auto" src="images/ulb.png" alt="ULB">
 
+### Poster Boards
 <img style="vertical-align: middle; max-width: 400px; width: 100%; height: auto" src="images/vtu.png" alt="VTU">
 
 ### Programme Committee Co-chairs
