@@ -79,8 +79,9 @@ accepted proceedings submissions are allowed to use up to three extra pages
 (i.e. up to 15 pages excluding bibliography) to address reviewer concerns and
 suggestions under the proviso that they do not introduce new results.
 
-#### Special Edition
-In addition to the proceedings, we are in discussions with JLAMP regarding a special issue; details will follow.
+#### Special Issue
+In addition to the proceedings, we will have a Special Issue at JLAMP. [Check the details and the call-for-papers at the journal site](https://www.sciencedirect.com/special-issue/321902/special-issue-on-quantum-physics-and-logic-qpl-2024-and-qpl-2025).
+
 
 ### Contact
 
