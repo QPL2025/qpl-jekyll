@@ -46,6 +46,8 @@ navigation_header:
   url: /#platinum-sponsors
 - title: Accepted Submissions
   url: /accepted/
+- title: Registration
+  url: /registration/
 # - title: Program
 # url: /program/
 # - title: Registration
