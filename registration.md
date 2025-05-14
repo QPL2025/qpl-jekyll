@@ -22,7 +22,7 @@ An official Conference Dinner is organised for the evening of Thursday, 17 July,
 - If you would like to bring a guest to the dinner, such as a family member travelling with you, please note that you need to make two separate payments – one for yourself and one for the guests. The number of guests that can be paid through the system is limited to 3. In case you need to bring more guests, please contact the organisers. Note that separate dishes could also be purchased at the restaurant.
 
 **Museum Tour and Jazz Concert**  
-We are exploring the possibility of organizing a guided tour of the Archeological Museum of Varna, which features the oldest gold treasure in the world  (4600 - 4200 BC) discovered in the Varna Necropolis, as well as a jazz concert by Bulgarian musician Hristo Yotsov later in the evening in the yard of the museum. More details will follow soon. Please indicate your interest in these optional events in the registration form so we can plan accordingly.
+We are exploring the possibility of organizing a guided tour of the Archeological Museum of Varna, which features the oldest gold treasure in the world  (4600 - 4200 BC) discovered in the Varna Necropolis, as well as a jazz concert by Bulgarian musician Hristo Yotsov later in the evening in the yard of the museum. More details will follow soon. Please indicate your interest in these optional events in the registration form so we can plan accordingly. NOTE: These events will not require additional payment.
 
 
 ### Registration
