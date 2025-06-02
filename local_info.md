@@ -44,3 +44,9 @@ This hotel is part of the Complex Hoizont, where we will have the conference din
 **Suite** with hydrotherapy bath: 270 BGN.
 
 These prices are available for reservations of 4 or more nights. Breakfast is *not* included. Guests can order breakfast at the associated restaurant Marché, but only after 9:00 am. To make a booking, please write to [hotel@horizont.bg](mailto:hotel@horizont.bg) specifying that you are a QPL participant. 
+
+#### Poster Instructions
+
+Ideally, posters should be printed on A0 size (84,1 cm x 118,9 cm) paper or similar material in portrait (vertical) orientation, leaving a 6 cm margin on the top and a 6 cm margin on the bottom within the A0 size. These margins are required because of the attachment mechanisms on the poster boards at our disposal, which use some of the space around the top and bottom edges and limit the vertical size of the visible area to 110 cm. The side (left and right) margins are not essential, but the total horizontal size should not exceed that of the A0 format (84,1 cm) so that the poster can enter the attachment mechanisms.
+
+Posters exceeding A0 size risk being unsuitable for the boards, so they should be strongly avoided. Smaller posters are OK, but they may have to be attached by tape.

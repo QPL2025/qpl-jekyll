@@ -70,6 +70,10 @@ their work at the poster session.
 
 The conference program will be announced later.
 
+#### Posters
+
+Please see [here](/local_info/#poster-instructions) for guidance on preparing posters.
+
 ### Conference Proceedings
 
 Conference proceedings will be published in [Electronic Proceedings in
