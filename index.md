@@ -97,12 +97,14 @@ For inquiries related to the conference itself, please write to [qpl.conference.
 
 <img style="vertical-align: middle; max-width: 500px; width: 100%; height: auto" src="images/neverlocal.svg" alt="Neverlocal">
 
-<img style="vertical-align: middle; max-width: 500px; width: 100%; height: auto" src="images/quantinuum.png" alt="Quantinuum">
+<img style="vertical-align: middle; max-width: 400px; width: 100%; height: auto" src="images/quantinuum.png" alt="Quantinuum">
 
 ### Organisational Support and Funding
 
 <!-- ![ULB](images/ulb.png "ULB") -->
 <img style="vertical-align: middle; max-width: 500px; width: 100%; height: auto" src="images/ulb.png" alt="ULB">
+
+<img style="vertical-align: middle; max-width: 300px; width: 100%; height: auto" src="images/varna_logo.png" alt="ULB">
 
 ### Poster Boards
 <img style="vertical-align: middle; max-width: 400px; width: 100%; height: auto" src="images/vtu.png" alt="VTU">
