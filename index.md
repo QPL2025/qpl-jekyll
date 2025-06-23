@@ -70,6 +70,8 @@ their work at the poster session.
 
 The conference program will be announced later.
 
+All talks will be 20 minutes long plus 5 minutes for questions.
+
 #### Posters
 
 Please see [here](/local_info/#poster-instructions) for guidance on preparing posters.
