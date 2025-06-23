@@ -60,7 +60,7 @@ authors are students at the time of submission.
 
 ### Registration
 
-Registration is [NOW OPEN](/registration/).
+Registration is now closed. Please see [here](/registration/) for further information regarding registrations.
 
 ### Presentations
 

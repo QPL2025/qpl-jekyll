@@ -2,9 +2,7 @@
 title: Registration
 ---
 
-REGISTRATION FOR QPL 2025 IS NOW OPEN 
-
-**CLOSING DATE**: 15 June 2025
+Registration for QPL 2025 is closed.
 
 
 ### Useful Information
@@ -37,7 +35,7 @@ Dinner price for one guest: 50 EUR
 
 Registration requires TWO STEPS:
 
-1. Complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdKPmEgaft94loCJeeXH7Uj68TG80-1QyseNwEbdfIcI5zZqw/viewform" target="_blank"> Google Form </a>
+1. Complete the ~~Google Form~~. Now closed.
 2. Make a payment of the corresponding total amount for yourself (participant), and a separate payment for the guests you will be bringing to the dinner, in one of two ways: 
   - By bank card, following the corresponding link (**please make sure to indicate during the process if you would like to receive an invoice after the payment**):
     
