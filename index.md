@@ -68,7 +68,7 @@ Authors of accepted proceedings and non-proceedings submissions will be invited
 to give a talk. Authors of accepted poster submissions will be invited to present
 their work at the poster session.
 
-The conference program will be announced later.
+[Conference program](/program/)
 
 All talks will be 20 minutes long plus 5 minutes for questions.
 

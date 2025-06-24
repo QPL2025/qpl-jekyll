@@ -48,10 +48,8 @@ navigation_header:
   url: /accepted/
 - title: Registration
   url: /registration/
-# - title: Program
-# url: /program/
-# - title: Registration
-# url: /registration/
+- title: Program
+  url: /program/
 
 # Footer nav
 navigation_footer:
