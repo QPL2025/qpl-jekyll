@@ -6,6 +6,10 @@ The conference will take place at the [Hotel Cherno More](https://www.chernomore
 
 {% include map.html id="location" title="Conference Location" %}
 
+A map with the locations relevant to the conference is shown below.
+
+{% include relevant-locations-map.html id="relevant-locations" title="Relevant Locations" %}
+
 During the summer season, Varna becomes a busy tourist destination and finding accommodation may get difficult. We therefore advise booking your stay as early as possible. In general, we recommend booking accommodation in the city centre, or close to the sea in walking distance from the conference venue. 
   
 We have negotiated discounted prices for QPL participants at the hotels listed below. Prices are given in Bulgarian lev, or BGN, where 1 EUR = 1.9558 BGN.
