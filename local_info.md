@@ -6,9 +6,27 @@ The conference will take place at the [Hotel Cherno More](https://www.chernomore
 
 {% include map.html id="location" title="Conference Location" %}
 
-A map with the locations relevant to the conference is shown below.
+A map with the locations relevant to the conference:
+* Varna Museum of Archaeology, Wednesday 14h;
+* Restaurant Veranda Horizont (Conference Dinner), Thursday 19h
+
+is shown below.
 
 {% include relevant-locations-map.html id="relevant-locations" title="Relevant Locations" %}
+
+The local currency is the Bulgarian Lev, BGN, with approximate exchange rate 1 EUR = 1.9558 BGN.
+
+#### Travel Information
+
+How to reach the conference venue:
+
+* from **Varna Airport**: [detailed information available here](https://varna-airport.bg/en/getting-around). The public transport option is bus 409 (from Terminal 2) which stops close to the conference venue (stop Sevastopol).
+* from **Varna Central Train Station**: within walking distance, approximately 1.2km. You can also take buses 17,20 or 39 to stop "Festivalen Kompleks" and walk from there. 
+* from **Varna Central Bus Station**: Bus 409 (stop Sevastopol). Or by walking (approximately 2.6km). 
+
+The weather is expected to be hot. Varna is on the seaside with several beaches not far from the conference venue.
+
+#### Accommodation 
 
 During the summer season, Varna becomes a busy tourist destination and finding accommodation may get difficult. We therefore advise booking your stay as early as possible. In general, we recommend booking accommodation in the city centre, or close to the sea in walking distance from the conference venue. 
   
