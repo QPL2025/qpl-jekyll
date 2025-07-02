@@ -21,10 +21,37 @@ The local currency is the Bulgarian Lev, BGN, with approximate exchange rate 1 E
 How to reach the conference venue:
 
 * from **Varna Airport**: [detailed information available here](https://varna-airport.bg/en/getting-around). The public transport option is bus 409 (from Terminal 2) which stops close to the conference venue (stop Sevastopol).
-* from **Varna Central Train Station**: within walking distance, approximately 1.2km. You can also take buses 17,20 or 39 to stop "Festivalen Kompleks" and walk from there. 
+* from **Varna Central Train Station**: within walking distance, approximately 1.2km. You can also take buses 20 or 39 to stop "Festivalen Kompleks" or bus 31 for two stops to “Muzeya / The Museum”. 
 * from **Varna Central Bus Station**: Bus 409 (stop Sevastopol). Or by walking (approximately 2.6km). 
 
+Taxi is also an option. The biggest and most famous taxi company in the city is [Triumf Taxi](https://triumftaxi.com/).
+
 The weather is expected to be hot. Varna is on the seaside with several beaches not far from the conference venue.
+
+#### Food/Drink
+
+Some recommendations:
+
+* [Stariya Chinar (Стария Чинар)](https://maps.app.goo.gl/yWpLPSFwPHYzccQA6) - restaurant right at the base of Hotel Cherno More (conference venue). Some emphasis on traditional Bulgarian food.
+* [Cubo](https://maps.app.goo.gl/eqgLqZT4UU8f7ync8) — a beach bar where you can chill out, watch the sea, have a drink, listen to music. On certain nights they have a band.
+* [Piano Bar Sinatra](https://maps.app.goo.gl/WDEtGBu5KKe9zssv6) - on the top floor of Hotel Cherno More (conference venue). Nice view and convenient.
+* [Cubo at Fisherman's Beach](https://maps.app.goo.gl/gD4vgME3cooJ7Jw98) -- a restaurant at the beach. Interesting food options and drinks, pleasant music, cool atmosphere.
+* [Nemo](https://maps.app.goo.gl/7nqksLo3N57nryJ49) - restaurant (good sea food).
+* [Burrata Italiana Varna](https://maps.app.goo.gl/nntHX75e6wecrFc78) - Italian style restaurant.
+* [Captain Cook](https://maps.app.goo.gl/GFyTRdY7wXrBwCbr5) - seafood restaurant.
+* [Mr. Baba](https://maps.app.goo.gl/VoSWn7bKY9GP361D7) - restaurant inside a wooden ship.
+* [Happy](https://maps.app.goo.gl/TXqxcWH1zhdZRt3f8) - restaurant chain with many food options. Another one [here](https://maps.app.goo.gl/aPnqK6q6vhbfXqFn6).
+* [Cherry by Marry](https://maps.app.goo.gl/2quaosePzr52C6Gy8) -- for cakes and coffee, very close to the venue.
+* [Le Chef](https://maps.app.goo.gl/yykdaaeEFnFbaZuY7) - fast food (wraps), just next to the venue.
+* There are other restaurants and bars along the seaside (close to the two Cubos linked above) and also at the [Sea Port (“Morska Gara” / "Морска Гара")](https://maps.app.goo.gl/m4cTQPAu8J9oCTRw7).
+
+#### Points of Interest
+
+Some recommendations:
+
+* [Dormition of the Mother of God Cathedral](https://maps.app.goo.gl/iQeaKxmmAL5FKVT97) - Orthodox Cathedral (photo on the conference webpage).
+* [The Sea Garden / Morska Gradina / Морска Градина](https://maps.app.goo.gl/ZjLJPAaf9wbEXSkW9) - seaside park.
+
 
 #### Accommodation 
 
