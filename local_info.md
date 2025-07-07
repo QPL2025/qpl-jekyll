@@ -16,6 +16,16 @@ is shown below.
 
 The local currency is the Bulgarian Lev, BGN, with approximate exchange rate 1 EUR = 1.9558 BGN.
 
+#### Conference Dinner
+
+An official Conference Dinner is organised for the evening of Thursday, 17 July, at the [restaurant Veranda, Club Horizont](https://www.horizont.bg/en/veranda-2/). 
+
+#### Museum Tour and Jazz Concert
+
+On the afternoon of Wednesday 16 July there will be a guided tour of the Archeological Museum of Varna, which features the oldest gold treasure in the world (4600 - 4200 BC) discovered in the Varna Necropolis, as well as a [jazz concert](https://varnasummerfest.org/en/program/zodiac) by Bulgarian musician Hristo Yotsov later in the evening in the yard of the museum.
+
+The cost of these events is included in the conference registration fee.
+
 #### Travel Information
 
 How to reach the conference venue:

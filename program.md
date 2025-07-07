@@ -124,7 +124,7 @@ Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, t
   <td>20:00 – 21:30</td>
   <td></td>
   <td></td>
-  <td style="background-color: #f0b041">Jazz concert</td>
+  <td style="background-color: #f0b041"><a href='https://varnasummerfest.org/en/program/zodiac'>Jazz concert</a></td>
 </tr>
 <tr>
   <td>21:30 – 22:00</td>
@@ -370,10 +370,10 @@ Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, t
   </tr>
   <tr>
     <td>20:00 – 21:30</td>
-    <td colspan="2">Jazz concert**</td>
+    <td colspan="2"><a href='https://varnasummerfest.org/en/program/zodiac'>Jazz concert</a>**</td>
   </tr>
 </table>
-<p>* Guided tour of the Archeological Museum of Varna, which features the oldest gold treasure in the world (4600 - 4200 BC) discovered in the Varna Necropolis.<br>** Jazz concert by Bulgarian musician Hristo Yotsov in the yard of the museum.</p>
+<p>* Guided tour of the Archeological Museum of Varna, which features the oldest gold treasure in the world (4600 - 4200 BC) discovered in the Varna Necropolis.<br>** <a href='https://varnasummerfest.org/en/program/zodiac'>Jazz concert</a> by Bulgarian musician Hristo Yotsov in the yard of the museum.</p>
 
 ## Thursday
 <table>
