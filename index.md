@@ -111,6 +111,10 @@ For inquiries related to the conference itself, please write to [qpl.conference.
 ### Poster Boards
 <img style="vertical-align: middle; max-width: 400px; width: 100%; height: auto" src="images/vtu.png" alt="VTU">
 
+### Other
+
+<img style="vertical-align: middle; max-width: 400px; width: 100%; height: auto" src="images/glarus.png" alt="VTU">
+
 ### Programme Committee Co-chairs
 
 * [Alejandro Díaz-Caro](https://members.loria.fr/adiazcaro) (Inria, LORIA & Universidad Nacional de Quilmes)
