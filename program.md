@@ -344,7 +344,7 @@ Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, t
   </tr>
   <tr>
     <td>11:15 – 11:40</td>
-    <td colspan="2">Yìlè Yīng, Maria Ciudad Alanon, Daniel Centeno, Marco Erba, Thomas Galley, David Schmid, John H. Selby, Robert W. Spekkens, Sina Soltani and Alex Wilce<br><strong>Twirled worlds: symmetry-induced failures of tomographic locality (and its comparison with quantum theory over the real field)</strong></td>
+    <td colspan="2">Yìlè Yīng, Maria Ciudad Alanon, Daniel Centeno, Marco Erba, Thomas Galley, David Schmid, John H. Selby, Robert W. Spekkens, Sina Soltani, Jacopo Surace and Alex Wilce<br><strong>Twirled worlds: symmetry-induced failures of tomographic locality (and its comparison with quantum theory over the real field)</strong></td>
   </tr>
   <tr>
     <td>11:40 – 12:05</td>
