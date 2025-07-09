@@ -4,7 +4,7 @@ title: Program
 
 The conference program is also available in [pdf format](/assets/pdfs/qpl_program.pdf).
 
-Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, there will be a welcome address from the organizers, followed by a greeting from the Mayor of Varna.
+Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, there will be a welcome address from the organizers.
 
 <table>
 <colgroup>
@@ -144,7 +144,7 @@ Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, t
   </tr>
   <tr>
     <td>9:40 – 9:55</td>
-    <td colspan="2">Welcome (organizers, Mayor of Varna)</td>
+    <td colspan="2">Welcome</td>
   </tr>
   <tr>
     <td></td>
