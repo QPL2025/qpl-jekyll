@@ -53,6 +53,7 @@ Some recommendations:
 * [Happy](https://maps.app.goo.gl/TXqxcWH1zhdZRt3f8) - restaurant chain with many food options. Another one [here](https://maps.app.goo.gl/aPnqK6q6vhbfXqFn6).
 * [Cherry by Marry](https://maps.app.goo.gl/2quaosePzr52C6Gy8) -- for cakes and coffee, very close to the venue.
 * [Le Chef](https://maps.app.goo.gl/yykdaaeEFnFbaZuY7) - fast food (wraps), just next to the venue.
+* [Beach Bar Menthol](https://maps.app.goo.gl/gUKSPQoFXtjEgtj29) - another beach bar.
 * There are other restaurants and bars along the seaside (close to the two Cubos linked above) and also at the [Sea Port (“Morska Gara” / "Морска Гара")](https://maps.app.goo.gl/m4cTQPAu8J9oCTRw7).
 
 #### Points of Interest
