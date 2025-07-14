@@ -149,7 +149,7 @@ Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, t
   </tr>
   <tr>
     <td></td>
-    <td colspan="2">Session chair: TBA (Hall Cherno More)</td>
+   <td colspan="2">Session chair: Augustin Vanrietvelde (Hall Cherno More)</td>
   </tr>
   <tr>
     <td>9:55 – 10:20</td>
@@ -164,7 +164,7 @@ Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, t
   </tr>
   <tr>
     <td></td>
-    <td colspan="2">Session chair: TBA (Hall Cherno More)</td>
+    <td colspan="2">Session chair: Ognyan Oreshkov (Hall Cherno More)</td>
   </tr>
   <tr>
     <td>11:15 – 11:40</td>
@@ -183,8 +183,8 @@ Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, t
   </tr>
   <tr>
     <td></td>
-    <td>Session chair: TBA (Hall Cherno More)</td>
-    <td>Session chair: TBA (Hall Varna)</td>
+    <td>Session chair: Vladimir Zamdzhiev (Hall Cherno More)</td>
+    <td>Session chair: Alastair Abbott (Hall Varna)</td>
   </tr>
   <tr>
     <td>14:00 – 14:25</td>
@@ -206,8 +206,8 @@ Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, t
   </tr>
   <tr>
     <td></td>
-    <td>Session chair: TBA (Hall Cherno More)</td>
-    <td>Session chair: TBA (Hall Varna)</td>
+    <td>Session chair: Ravi Kunjwal (Hall Cherno More)</td>
+    <td>Session chair: James Hefford (Hall Varna)</td>
   </tr>
   <tr>
     <td>15:45 – 16:10</td>
@@ -235,7 +235,7 @@ Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, t
 <table>
   <tr>
     <td></td>
-    <td colspan="2">Session chair: TBA (Hall Cherno More)</td>
+    <td colspan="2">Session chair: Ross Duncan (Hall Cherno More)</td>
   </tr>
   <tr>
     <td>9:30 – 9:55</td>
@@ -254,7 +254,7 @@ Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, t
   </tr>
   <tr>
     <td></td>
-    <td colspan="2">Session chair: TBA (Hall Cherno More)</td>
+    <td colspan="2">Session chair: Nicola Pinzani (Hall Cherno More)</td>
   </tr>
   <tr>
     <td>11:15 – 11:40</td>
@@ -273,8 +273,8 @@ Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, t
   </tr>
   <tr>
     <td></td>
-    <td>Session chair: TBA (Hall Cherno More)</td>
-    <td>Session chair: TBA (Hall Varna)</td>
+    <td>Session chair: Miriam Backens (Hall Cherno More)</td>
+    <td>Session chair: Jessica Bavaresco (Hall Varna)</td>
   </tr>
   <tr>
     <td>14:00 – 14:25</td>
@@ -296,8 +296,8 @@ Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, t
   </tr>
   <tr>
     <td></td>
-    <td>Session chair: TBA (Hall Cherno More)</td>
-    <td>Session chair: TBA (Hall Varna)</td>
+    <td>Session chair: Cole Comfort (Hall Cherno More)</td>
+    <td>Session chair: Zixuan Liu (Hall Varna)</td>
   </tr>
   <tr>
     <td>15:45 – 16:10</td>
@@ -322,7 +322,7 @@ Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, t
 <table>
   <tr>
     <td></td>
-    <td colspan="2">Session chair: TBA (Hall Cherno More)</td>
+    <td colspan="2">Session chair: Alejandro Díaz-Caro (Hall Cherno More)</td>
   </tr>
   <tr>
     <td>9:30 – 9:55</td>
@@ -349,7 +349,7 @@ Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, t
   </tr>
   <tr>
     <td></td>
-    <td colspan="2">Session chair: TBA (Hall Cherno More)</td>
+    <td colspan="2">Session chair: Anna Jenčová (Hall Cherno More)</td>
   </tr>
   <tr>
     <td>11:15 – 11:40</td>
@@ -388,7 +388,7 @@ Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, t
 <table>
   <tr>
     <td></td>
-    <td colspan="2">Session chair: TBA (Hall Cherno More)</td>
+    <td colspan="2">Session chair: Aleks Kissinger (Hall Cherno More)</td>
   </tr>
   <tr>
     <td>9:30 – 9:55</td>
@@ -407,7 +407,7 @@ Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, t
   </tr>
   <tr>
     <td></td>
-    <td colspan="2">Session chair: TBA (Hall Cherno More)</td>
+    <td colspan="2">Session chair: Simon Perdrix (Hall Cherno More)</td>
   </tr>
   <tr>
     <td>11:15 – 11:40</td>
@@ -426,8 +426,8 @@ Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, t
   </tr>
   <tr>
     <td></td>
-    <td>Session chair: TBA (Hall Cherno More)</td>
-    <td>Session chair: TBA (Hall Varna)</td>
+    <td>Session chair: Arianne Meijer-van de Griend (Hall Cherno More)</td>
+    <td>Session chair: Robert Booth (Hall Varna)</td>
   </tr>
   <tr>
     <td>14:00 – 14:25</td>
@@ -449,8 +449,8 @@ Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, t
   </tr>
   <tr>
     <td></td>
-    <td>Session chair: TBA (Hall Cherno More)</td>
-    <td>Session chair: TBA (Hall Varna)</td>
+    <td>Session chair: Nadish de Silva (Hall Cherno More)</td>
+    <td>Session chair: Eleftherios Tselentis (Hall Varna)</td>
   </tr>
   <tr>
     <td>15:45 – 16:10</td>
@@ -497,7 +497,7 @@ Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, t
   </tr>
   <tr>
     <td></td>
-    <td colspan="2">Session chair: TBA (Hall Cherno More)</td>
+    <td colspan="2">Session chair: Ana Belén Sainz (Hall Cherno More)</td>
   </tr>
   <tr>
     <td>11:15 – 11:40</td>
@@ -512,8 +512,8 @@ Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, t
   </tr>
   <tr>
     <td></td>
-    <td>Session chair: TBA (Hall Cherno More)</td>
-    <td>Session chair: TBA (Hall Varna)</td>
+    <td>Session chair: Timothée Hoffreumon (Hall Cherno More)</td>
+    <td>Session chair: Lorenzo Catani (Hall Varna)</td>
   </tr>
   <tr>
     <td>14:00 – 14:25</td>
