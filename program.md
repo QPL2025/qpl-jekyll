@@ -338,11 +338,11 @@ Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, t
 </tr>
 <tr>
   <td>10:20 – 10:35</td>
-  <td colspan="2">Quantinuum</td>
+  <td colspan="2">Quantinuum - Ross Duncan</td>
 </tr>
 <tr>
   <td>10:35 – 10:50</td>
-  <td colspan="2">NeverLocal</td>
+  <td colspan="2">NeverLocal - Nicola Pinzani</td>
 </tr>
   <tr>
     <td colspan="3">Coffee break</td>
@@ -403,7 +403,7 @@ Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, t
     <td colspan="2">Nathan Claudet and Simon Perdrix<br><strong>Generalising Local Complementation to Capture Local Unitary Equivalence of Graph States</strong></td>
   </tr>
   <tr>
-    <td colspan="3">Coffee break</td>
+    <td colspan="3"><strong>Conference photo</strong> and coffee break</td>
   </tr>
   <tr>
     <td></td>
