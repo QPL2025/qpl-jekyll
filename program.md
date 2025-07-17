@@ -464,7 +464,7 @@ Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, t
   </tr>
   <tr>
     <td></td>
-    <td colspan="2">Session chair: TBA (Hall Cherno More)</td>
+    <td colspan="2">Session chair: Ognyan Oreshkov (Hall Cherno More)</td>
   </tr>
   <tr>
     <td>16:35 – 17:15</td>
@@ -482,7 +482,7 @@ Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, t
 <table>
   <tr>
     <td></td>
-    <td colspan="2">Session chair: TBA (Hall Cherno More)</td>
+    <td colspan="2">Session chair: Julian Wechs (Hall Cherno More)</td>
   </tr>
   <tr>
     <td>9:55 – 10:20</td>
