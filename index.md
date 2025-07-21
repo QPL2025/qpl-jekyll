@@ -95,6 +95,12 @@ For inquiries related to the submission and review process, please write to the 
 
 For inquiries related to the conference itself, please write to [qpl.conference.2025@gmail.com](mailto:qpl.conference.2025@gmail.com).
 
+### Group Photo
+
+<center>
+<img src="images/conference_photo.jpg" alt="group-photo" width="100%" height="auto">
+</center>
+
 ### Platinum Sponsors
 
 <img style="vertical-align: middle; max-width: 500px; width: 100%; height: auto" src="images/neverlocal.svg" alt="Neverlocal">
