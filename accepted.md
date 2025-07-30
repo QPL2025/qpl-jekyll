@@ -177,7 +177,7 @@ The following submissions to QPL 2025 have been accepted to appear in the procee
     </tr>
     <tr>
       <td>Vivien Vandaele</td>
-      <td>Lower T-count with faster algorithms</td>
+      <td>Lower T-count with faster algorithms <br> <strong> Best Student Paper Award Winner </strong></td>
     </tr>
     <tr>
       <td>Carla Ferradini, Victor Gitton and V. Vilasini</td>

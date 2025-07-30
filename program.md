@@ -431,7 +431,7 @@ Registration opens at 9:00 AM on Monday at Hotel Cherno More. <br> At 9:40 AM, t
   </tr>
   <tr>
     <td>14:00 – 14:25</td>
-    <td>Vivien Vandaele<br><strong>Lower T-count with faster algorithms</strong></td>
+    <td>Vivien Vandaele<br><strong>Lower T-count with faster algorithms</strong><br><p style="color:red">Best Student Paper Award Winner</p></td>
     <td>Satoshi Yoshida, Yuki Koizumi, Michał Studziński, Marco Túlio Quintino and Mio Murao<br><strong>One-to-one Correspondence between Deterministic Port-Based Teleportation and Unitary Estimation</strong></td>
   </tr>
   <tr>
